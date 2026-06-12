@@ -50,6 +50,10 @@ first — everything is parameterized by them.
    `GH_TOKEN="$LIFECYCLE_PAT" gh repo create <owner>/<slug> --public`.
 3. **Plant only the necessary context and files** — nothing else:
    - `.github/` and `.claude/` layers, copied **verbatim** (they are concept-agnostic);
+     `.github/workflows/grow.yml` needs the PAT to carry `workflow` scope (classic) /
+     Workflows: write (fine-grained) — if the push is rejected for that one file, plant
+     everything else, record the omission in the replant log entry, and continue (the shepherd
+     fallback in LIFECYCLE.md keeps the successor growing); **never fail the replant over it**;
    - `CLAUDE.md` and `.gitignore`;
    - `lifecycle.yml` — same `policy`, `state.status: growing`, `state.generation_ticks: 0`, the
      **full lineage carried forward** with the new member appended
@@ -62,6 +66,11 @@ first — everything is parameterized by them.
    `/genesis` itself (the grow workflow handles this).
 5. **Close the loop** — fill the successor link into this repo's README *Status* line and
    `lifecycle.yml`, amend/commit/push via **publish-session**.
+6. **Register with the driver** — if this repo is not the lineage's first member, also append the
+   successor (and this repo's `mature` status) to the **driver repo's** `lifecycle.yml` lineage
+   (clone `lineage[0]` via `GH_TOKEN="$LIFECYCLE_PAT"`, edit, push
+   `chore: reconcile lineage registry`). The driver's lineage is the registry its workflow's phase
+   resolver reads — a stale registry delays distill/consolidate triggers.
 
 ## Output Format
 
