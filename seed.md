@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2007 is the current instance, spawned from the year 2006.
 
-**Generation status: growing** — 2 ticks completed.
+**Generation status: growing** — 3 ticks completed.
 
 ## 3. Architecture (customization layer)
 
@@ -80,25 +80,28 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2007` (12 rows; 5 rows link to dedicated files).
-- **Dedicated topic files:** 5
+- **Knowledge table:** `README.md` → `## Notable Events of 2007` (12 rows; 8 rows link to dedicated files).
+- **Dedicated topic files:** 8
   - `history-politics/virginia-tech-shooting.md` — Virginia Tech shooting (Apr 16, 2007)
   - `science-technology/iphone-launch.md` — iPhone launch (Jun 29, 2007)
   - `history-politics/benazir-bhutto-assassination.md` — Assassination of Benazir Bhutto (Dec 27, 2007)
   - `arts-culture/harry-potter-deathly-hallows.md` — Harry Potter and the Deathly Hallows (Jul 21, 2007)
   - `history-politics/al-gore-ipcc-nobel-peace-prize.md` — Al Gore and IPCC Nobel Peace Prize (Oct 12, 2007)
+  - `society-economics/subprime-mortgage-crisis.md` — Subprime mortgage crisis / Bear Stearns collapse (Jul 2007)
+  - `science-technology/amazon-kindle-launch.md` — Amazon Kindle launch (Nov 19, 2007)
+  - `arts-culture/writers-guild-strike.md` — Writers Guild of America strike (Nov 5, 2007)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — generated; 13 chronological entries covering all README knowledge-table events; 5 entries now link to dedicated files.
-- `history-politics/index.md` — generated; 3 topic entries.
-- `science-technology/index.md` — generated; 1 topic entry.
-- `arts-culture/index.md` — generated; 1 topic entry.
-- `society-economics/index.md` — generated; stub (no dedicated files yet).
-- `people/index.md` — generated; stub (no dedicated files yet).
-- `INDEX.md` — generated; master index of all 5 topics grouped by category.
-- Cross-reference `## Related` blocks — added to all 5 dedicated topic files.
+- `TIMELINE.md` — generated; 13 chronological entries; 8 entries now link to dedicated files (stale — needs regeneration to reflect 3 new files).
+- `history-politics/index.md` — generated; 3 topic entries (current).
+- `science-technology/index.md` — generated; 1 topic entry (stale — amazon-kindle-launch.md not yet indexed).
+- `arts-culture/index.md` — generated; 1 topic entry (stale — writers-guild-strike.md not yet indexed).
+- `society-economics/index.md` — generated; stub (stale — subprime-mortgage-crisis.md not yet indexed).
+- `people/index.md` — generated; stub (no dedicated files).
+- `INDEX.md` — generated; master index (stale — shows 5 topics; 8 now exist).
+- Cross-reference `## Related` blocks — added to original 5 dedicated topic files; not yet added to 3 new files.
 
 ## 6. Growth Loop
 
@@ -194,5 +197,21 @@ retargetability. Bootstrapped with:
 - `TIMELINE.md` updated: 3 new links to dedicated files added.
 
 **README rows updated**: 3 (Bhutto, Deathly Hallows, Nobel Prize rows now link to dedicated files)
+
+---
+
+### Tick 3: Subprime crisis, Kindle, and WGA strike — 2026-06-12
+
+**Items**:
+- Deep-dive: Subprime mortgage crisis / Bear Stearns hedge funds (Jul 2007) — content, high
+- Deep-dive: Amazon Kindle launch (Nov 19, 2007) — content, medium
+- Deep-dive: Writers Guild of America strike (Nov 5, 2007) — content, medium
+
+**Adds**:
+- `society-economics/subprime-mortgage-crisis.md` — full deep-dive on the July 2007 Bear Stearns hedge fund collapse and broader subprime crisis onset; Cioffi/Tannin SEC charges; BNP Paribas contagion; 2007 foreclosure statistics. Verified against Wikipedia, SEC.gov, and Council on Foreign Relations.
+- `science-technology/amazon-kindle-launch.md` — full deep-dive on the November 19, 2007 Kindle launch; $399 price; sold out in 5.5 hours; 90,000 titles at launch; Whispernet; Lab126. Verified against Wikipedia and Amazon Press Center original 2007 press release.
+- `arts-culture/writers-guild-strike.md` — full deep-dive on the November 5, 2007 WGA strike; 12,000 members; new-media residuals dispute; 100-day duration; late-night show impact; Letterman/O'Brien personally funded writers. Verified against Wikipedia and EBSCO Research Starters.
+
+**README rows updated**: 3 (Subprime, Kindle, WGA rows now link to dedicated files)
 
 ---
