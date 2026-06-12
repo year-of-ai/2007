@@ -26,3 +26,11 @@ The 2007–08 WGA strike lasted 100 days, concluding on February 12, 2008, when 
 - [2007–08 Writers Guild of America strike — Wikipedia](https://en.wikipedia.org/wiki/2007%E2%80%9308_Writers_Guild_of_America_strike)
 - [2007-08 Writers Guild of America Strike — EBSCO Research Starters](https://www.ebsco.com/research-starters/history/2007-08-writers-guild-america-strike)
 - [Everything you need to know about the 2007 WGA strike and the shows it impacted — National World](https://www.nationalworld.com/culture/film/wga-writers-strike-2007-what-happened-4135845)
+
+<!-- BEGIN GENERATED: crossrefs -->
+## Related
+
+- [Harry Potter and the Deathly Hallows](harry-potter-deathly-hallows.md) — Major publishing event of 2007 in the same Arts & Culture category.
+- [Amazon Kindle Launch](../science-technology/amazon-kindle-launch.md) — Simultaneous technology shift that reshaped media distribution in late 2007.
+- [Subprime Mortgage Crisis](../society-economics/subprime-mortgage-crisis.md) — Contemporaneous economic disruption that shaped the broader 2007–08 period.
+<!-- END GENERATED: crossrefs -->

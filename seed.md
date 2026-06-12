@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2007 is the current instance, spawned from the year 2006.
 
-**Generation status: growing** — 3 ticks completed.
+**Generation status: mature** — 3 ticks completed; replanted 2026-06-12. Successor: [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008.
 
 ## 3. Architecture (customization layer)
 
@@ -94,14 +94,14 @@ seed.
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — generated; 13 chronological entries; 8 entries now link to dedicated files (stale — needs regeneration to reflect 3 new files).
+- `TIMELINE.md` — generated; 13 chronological entries; all 8 dedicated-file events link to their files (current).
 - `history-politics/index.md` — generated; 3 topic entries (current).
-- `science-technology/index.md` — generated; 1 topic entry (stale — amazon-kindle-launch.md not yet indexed).
-- `arts-culture/index.md` — generated; 1 topic entry (stale — writers-guild-strike.md not yet indexed).
-- `society-economics/index.md` — generated; stub (stale — subprime-mortgage-crisis.md not yet indexed).
+- `science-technology/index.md` — generated; 2 topic entries: iphone-launch, amazon-kindle-launch (current).
+- `arts-culture/index.md` — generated; 2 topic entries: harry-potter-deathly-hallows, writers-guild-strike (current).
+- `society-economics/index.md` — generated; 1 topic entry: subprime-mortgage-crisis (current).
 - `people/index.md` — generated; stub (no dedicated files).
-- `INDEX.md` — generated; master index (stale — shows 5 topics; 8 now exist).
-- Cross-reference `## Related` blocks — added to original 5 dedicated topic files; not yet added to 3 new files.
+- `INDEX.md` — generated; master index listing all 8 topic files grouped by category (current).
+- Cross-reference `## Related` blocks — added to all 8 dedicated topic files (current).
 
 ## 6. Growth Loop
 
@@ -215,3 +215,15 @@ retargetability. Bootstrapped with:
 **README rows updated**: 3 (Subprime, Kindle, WGA rows now link to dedicated files)
 
 ---
+
+### Replant — 2026-06-12
+
+Generation closed for **the year 2007** — 3 ticks completed. Final content state: 12-row knowledge table (8 rows with links to dedicated files), 8 dedicated topic files spanning all content categories, full structure artifacts (TIMELINE, INDEX, 5 category indices, cross-reference blocks on all topic files).
+
+**Topics completed**: Virginia Tech shooting, iPhone launch, Benazir Bhutto assassination, Harry Potter and the Deathly Hallows, Al Gore/IPCC Nobel Peace Prize, Subprime mortgage crisis / Bear Stearns collapse, Amazon Kindle launch, Writers Guild of America strike.
+
+**Deferred to Ideas**: No Country for Old Men, Facebook Platform, Luciano Pavarotti, Boris Yeltsin, Iraq surge, I-35W bridge, UK politics rows, evolve audit.
+
+**Successor spawned**: [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008. Successor planted with framework + lifecycle.yml carrying the full lineage forward; germinated via `/genesis`.
+
+**Lineage**: 3 of 7 members toward consolidation (2005 → 2006 → 2007 → 2008).

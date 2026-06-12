@@ -29,3 +29,11 @@ The device established Amazon as a hardware company alongside its identity as a 
 - [Introducing Amazon Kindle - Amazon Press Center (original 2007 press release)](https://press.aboutamazon.com/2007/11/introducing-amazon-kindle)
 - [A look back at 10 years of the Amazon Kindle - About Amazon](https://www.aboutamazon.com/news/devices/a-look-back-at-10-years-of-the-amazon-kindle)
 - [The inside story of how the Kindle was born - About Amazon](https://www.aboutamazon.com/news/devices/the-inside-story-of-how-the-kindle-was-born)
+
+<!-- BEGIN GENERATED: crossrefs -->
+## Related
+
+- [iPhone Launch](iphone-launch.md) — Apple's transformative device launch earlier the same year.
+- [Writers Guild of America Strike](../arts-culture/writers-guild-strike.md) — Contemporaneous disruption to media and publishing industries in late 2007.
+- [Subprime Mortgage Crisis](../society-economics/subprime-mortgage-crisis.md) — Major economic event of the same period.
+<!-- END GENERATED: crossrefs -->

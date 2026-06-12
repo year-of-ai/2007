@@ -5,20 +5,11 @@
 
 ## Now
 
-| Item | Tag | Priority |
-|---|---|---|
-| Deep-dive: *No Country for Old Men* / 80th Academy Awards (2007–2008) | content | medium |
-| Deep-dive: Facebook Platform launch (May 2007) | content | medium |
-| Deep-dive: Luciano Pavarotti death (Sep 6, 2007) | content | medium |
+_Nothing in progress — repo is mature._
 
 ## Backlog
 
-| Item | Tag | Priority |
-|---|---|---|
-| Deep-dive: Boris Yeltsin death (Apr 23, 2007) | content | medium |
-| Add cross-reference ## Related blocks to remaining topic files | structure | medium |
-| Periodic /evolve audit of .github/ layer | meta | low |
-| Add new knowledge-table rows (Iraq surge, I-35W bridge, UK politics) | content | low |
+_Empty — repo is mature._
 
 ## Done
 
@@ -40,6 +31,13 @@
 
 ## Ideas
 
+- Deep-dive: *No Country for Old Men* / 80th Academy Awards (2007–2008) — deferred at replant
+- Deep-dive: Facebook Platform launch (May 2007) — deferred at replant
+- Deep-dive: Luciano Pavarotti death (Sep 6, 2007) — deferred at replant
+- Deep-dive: Boris Yeltsin death (Apr 23, 2007) — deferred at replant
+- Add cross-reference ## Related blocks to remaining topic files — deferred at replant
+- Periodic /evolve audit of .github/ layer — deferred at replant
+- Add new knowledge-table rows (Iraq surge, I-35W bridge, UK politics) — deferred at replant
 - Deep-dive: Surge strategy in Iraq (Jan 2007 announcement by President Bush)
 - Deep-dive: Minnesota I-35W bridge collapse (Aug 1, 2007)
 - Deep-dive: California wildfires (Oct 2007)
@@ -48,4 +46,3 @@
 - Deep-dive: China's first spacewalk / Shenzhou spacecraft milestones
 - Deep-dive: *Transformers* / summer blockbusters 2007
 - Deep-dive: Halo 3 and the 2007 video game landscape
-- Add new knowledge-table rows (Iraq surge, I-35W bridge, UK politics)

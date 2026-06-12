@@ -27,3 +27,11 @@ The Bear Stearns hedge fund collapse in July 2007 is widely regarded as the prox
 - [Bear Stearns — Wikipedia](https://en.wikipedia.org/wiki/Bear_Stearns)
 - [SEC Charges Two Former Bear Stearns Hedge Fund Managers With Fraud — SEC.gov](https://www.sec.gov/news/press/2008/2008-115.htm)
 - [The U.S. Financial Crisis — Council on Foreign Relations](https://www.cfr.org/timelines/us-financial-crisis)
+
+<!-- BEGIN GENERATED: crossrefs -->
+## Related
+
+- [iPhone Launch](../science-technology/iphone-launch.md) — Major technology milestone of 2007.
+- [Virginia Tech Shooting](../history-politics/virginia-tech-shooting.md) — Another major crisis event of 2007.
+- [Amazon Kindle Launch](../science-technology/amazon-kindle-launch.md) — Contemporaneous technology milestone of late 2007.
+<!-- END GENERATED: crossrefs -->
