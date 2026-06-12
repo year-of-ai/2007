@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2007 is the current instance, spawned from the year 2006.
 
-**Generation status: growing** — 1 tick completed.
+**Generation status: growing** — 2 ticks completed.
 
 ## 3. Architecture (customization layer)
 
@@ -80,18 +80,25 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2007` (12 rows; 2 rows link to dedicated files).
-- **Dedicated topic files:** 2
+- **Knowledge table:** `README.md` → `## Notable Events of 2007` (12 rows; 5 rows link to dedicated files).
+- **Dedicated topic files:** 5
   - `history-politics/virginia-tech-shooting.md` — Virginia Tech shooting (Apr 16, 2007)
   - `science-technology/iphone-launch.md` — iPhone launch (Jun 29, 2007)
+  - `history-politics/benazir-bhutto-assassination.md` — Assassination of Benazir Bhutto (Dec 27, 2007)
+  - `arts-culture/harry-potter-deathly-hallows.md` — Harry Potter and the Deathly Hallows (Jul 21, 2007)
+  - `history-politics/al-gore-ipcc-nobel-peace-prize.md` — Al Gore and IPCC Nobel Peace Prize (Oct 12, 2007)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — generated; 13 chronological entries covering all README knowledge-table events.
-- Category index pages `<category-slug>/index.md` — not yet generated.
-- `INDEX.md` — not yet generated.
-- Cross-reference `## Related` blocks — not yet added.
+- `TIMELINE.md` — generated; 13 chronological entries covering all README knowledge-table events; 5 entries now link to dedicated files.
+- `history-politics/index.md` — generated; 3 topic entries.
+- `science-technology/index.md` — generated; 1 topic entry.
+- `arts-culture/index.md` — generated; 1 topic entry.
+- `society-economics/index.md` — generated; stub (no dedicated files yet).
+- `people/index.md` — generated; stub (no dedicated files yet).
+- `INDEX.md` — generated; master index of all 5 topics grouped by category.
+- Cross-reference `## Related` blocks — added to all 5 dedicated topic files.
 
 ## 6. Growth Loop
 
@@ -160,5 +167,32 @@ retargetability. Bootstrapped with:
 - `TIMELINE.md` — chronological structure artifact listing all 13 events from the README knowledge table with dates, links, and category labels.
 
 **README rows added**: 2 (existing rows updated with links to dedicated files)
+
+---
+
+### Tick 2: Bhutto, Deathly Hallows, Nobel Prize, and full structure — 2026-06-12
+
+**Items**:
+- Deep-dive: Benazir Bhutto assassination (Dec 27, 2007) — content, high
+- Deep-dive: *Harry Potter and the Deathly Hallows* (Jul 21, 2007) — content, high
+- Deep-dive: Al Gore and IPCC Nobel Peace Prize (Oct 12, 2007) — content, high
+- Generate category index pages (all 5 slugs) — structure, medium
+- Generate master INDEX.md — structure, medium
+- Add cross-reference ## Related blocks to topic files — structure, medium
+
+**Adds**:
+- `history-politics/benazir-bhutto-assassination.md` — full deep-dive on the December 27, 2007 assassination; Scotland Yard findings; Baitullah Mehsud attribution; UN commission conclusions; PPP electoral aftermath. Verified against Wikipedia and UN News.
+- `arts-culture/harry-potter-deathly-hallows.md` — full deep-dive on the July 21, 2007 publication; 8.3 million U.S. copies in 24 hours (Guinness World Record); plot summary; cultural and publishing industry significance. Verified against Wikipedia and Scholastic press release.
+- `history-politics/al-gore-ipcc-nobel-peace-prize.md` — full deep-dive on the October 12, 2007 Nobel Peace Prize; IPCC AR4; An Inconvenient Truth; Bali Road Map context. Verified against NobelPrize.org and Wikipedia.
+- `history-politics/index.md` — category index listing 3 topic files.
+- `science-technology/index.md` — category index listing 1 topic file.
+- `arts-culture/index.md` — category index listing 1 topic file.
+- `society-economics/index.md` — stub category index.
+- `people/index.md` — stub category index.
+- `INDEX.md` — master index of all 5 dedicated topic files grouped by category.
+- Cross-reference `## Related` blocks added to all 5 existing topic files.
+- `TIMELINE.md` updated: 3 new links to dedicated files added.
+
+**README rows updated**: 3 (Bhutto, Deathly Hallows, Nobel Prize rows now link to dedicated files)
 
 ---

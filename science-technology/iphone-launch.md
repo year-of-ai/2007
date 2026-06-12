@@ -25,6 +25,16 @@ The original iPhone fundamentally reshaped the smartphone industry and mobile co
 
 The launch also accelerated Apple's transformation from a computer company into a consumer electronics and services giant: Apple's stock (AAPL) rose sharply following the announcement, and by Q4 2007 Apple had become the second-largest U.S. smartphone vendor. The July 2008 App Store launch — enabled by the iPhone's platform — created an entirely new software distribution ecosystem and spawned a multibillion-dollar mobile application economy. By 2012, more than 200 million iPhones had been sold globally, and the iPhone line became Apple's single largest revenue source. The iPhone's influence extended to Android, Google's competing mobile OS first released in 2008, which adopted a similar touchscreen-centric approach.
 
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+
+## Related
+
+- [Harry Potter and the Deathly Hallows](../arts-culture/harry-potter-deathly-hallows.md) — Another major cultural and commercial milestone of 2007.
+- [Virginia Tech Shooting](../history-politics/virginia-tech-shooting.md) — Defining event of the same year.
+- [Al Gore and IPCC Nobel Peace Prize](../history-politics/al-gore-ipcc-nobel-peace-prize.md) — Major 2007 development with lasting global impact.
+
+<!-- END GENERATED: crossrefs -->
+
 ## Sources
 
 - [iPhone (1st generation) — Wikipedia](https://en.wikipedia.org/wiki/IPhone_(1st_generation))

@@ -33,3 +33,13 @@ The event drew condolences from world leaders including Pope Benedict XVI and Qu
 - [Virginia Tech Shooting — History.com](https://www.history.com/this-day-in-history/april-16/massacre-at-virginia-tech-leaves-32-dead)
 - [Virginia Tech shooting | Victims, Shooter, & Timeline — Britannica](https://www.britannica.com/event/Virginia-Tech-shooting)
 - [We Remember: April 16, 2007 — Virginia Tech Library Research Guide](https://guides.lib.vt.edu/specialcollections/vt/april16)
+
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+
+## Related
+
+- [Assassination of Benazir Bhutto](benazir-bhutto-assassination.md) — Another defining act of political violence in 2007, with major geopolitical consequences.
+- [Al Gore and IPCC Nobel Peace Prize](al-gore-ipcc-nobel-peace-prize.md) — Second major History & Politics milestone of 2007.
+- [iPhone Launch](../science-technology/iphone-launch.md) — Contemporaneous landmark event of 2007.
+
+<!-- END GENERATED: crossrefs -->

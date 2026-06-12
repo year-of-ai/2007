@@ -7,24 +7,19 @@
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Benazir Bhutto assassination (Dec 27, 2007) | content | high |
-| Deep-dive: *Harry Potter and the Deathly Hallows* (Jul 21, 2007) | content | high |
-| Deep-dive: Al Gore and IPCC Nobel Peace Prize (Oct 12, 2007) | content | high |
+| Deep-dive: Subprime mortgage crisis / Bear Stearns hedge funds (Jul 2007) | content | high |
+| Deep-dive: Amazon Kindle launch (Nov 19, 2007) | content | medium |
+| Deep-dive: Writers Guild of America strike (Nov 5, 2007) | content | medium |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Subprime mortgage crisis / Bear Stearns hedge funds (Jul 2007) | content | high |
-| Deep-dive: Amazon Kindle launch (Nov 19, 2007) | content | medium |
-| Deep-dive: Writers Guild of America strike (Nov 5, 2007) | content | medium |
 | Deep-dive: *No Country for Old Men* / 80th Academy Awards (2007–2008) | content | medium |
 | Deep-dive: Facebook Platform launch (May 2007) | content | medium |
 | Deep-dive: Luciano Pavarotti death (Sep 6, 2007) | content | medium |
 | Deep-dive: Boris Yeltsin death (Apr 23, 2007) | content | medium |
-| Generate category index pages (all 5 slugs) | structure | medium |
-| Generate master INDEX.md | structure | medium |
-| Add cross-reference ## Related blocks to topic files | structure | medium |
+| Add cross-reference ## Related blocks to remaining topic files | structure | medium |
 | Periodic /evolve audit of .github/ layer | meta | low |
 
 ## Done
@@ -35,6 +30,12 @@
 | Deep-dive: Virginia Tech shooting (Apr 16, 2007) | content | 2026-06-12 |
 | Deep-dive: iPhone launch (Jun 29, 2007) | content | 2026-06-12 |
 | Generate TIMELINE.md from README knowledge table | structure | 2026-06-12 |
+| Deep-dive: Benazir Bhutto assassination (Dec 27, 2007) | content | 2026-06-12 |
+| Deep-dive: *Harry Potter and the Deathly Hallows* (Jul 21, 2007) | content | 2026-06-12 |
+| Deep-dive: Al Gore and IPCC Nobel Peace Prize (Oct 12, 2007) | content | 2026-06-12 |
+| Generate category index pages (all 5 slugs) | structure | 2026-06-12 |
+| Generate master INDEX.md | structure | 2026-06-12 |
+| Add cross-reference ## Related blocks to topic files | structure | 2026-06-12 |
 
 ## Ideas
 
