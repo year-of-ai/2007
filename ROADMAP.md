@@ -7,17 +7,14 @@
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Virginia Tech shooting (Apr 16, 2007) | content | high |
-| Deep-dive: iPhone launch (Jun 29, 2007) | content | high |
-| Generate TIMELINE.md from README knowledge table | structure | high |
+| Deep-dive: Benazir Bhutto assassination (Dec 27, 2007) | content | high |
+| Deep-dive: *Harry Potter and the Deathly Hallows* (Jul 21, 2007) | content | high |
+| Deep-dive: Al Gore and IPCC Nobel Peace Prize (Oct 12, 2007) | content | high |
 
 ## Backlog
 
 | Item | Tag | Priority |
 |---|---|---|
-| Deep-dive: Benazir Bhutto assassination (Dec 27, 2007) | content | high |
-| Deep-dive: *Harry Potter and the Deathly Hallows* (Jul 21, 2007) | content | high |
-| Deep-dive: Al Gore and IPCC Nobel Peace Prize (Oct 12, 2007) | content | high |
 | Deep-dive: Subprime mortgage crisis / Bear Stearns hedge funds (Jul 2007) | content | high |
 | Deep-dive: Amazon Kindle launch (Nov 19, 2007) | content | medium |
 | Deep-dive: Writers Guild of America strike (Nov 5, 2007) | content | medium |
@@ -35,6 +32,9 @@
 | Item | Tag | Completed |
 |---|---|---|
 | Genesis: seed.md, README.md, ROADMAP.md, .github/ layer | meta | 2026-06-12 |
+| Deep-dive: Virginia Tech shooting (Apr 16, 2007) | content | 2026-06-12 |
+| Deep-dive: iPhone launch (Jun 29, 2007) | content | 2026-06-12 |
+| Generate TIMELINE.md from README knowledge table | structure | 2026-06-12 |
 
 ## Ideas
 

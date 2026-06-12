@@ -46,7 +46,7 @@ publishes — all driven by the Concept Definition above. The framework is **con
 point it at a different subject and it grows a different knowledge base. 1987 is the reference
 instance; 2007 is the current instance, spawned from the year 2006.
 
-**Generation status: growing** — 0 ticks completed.
+**Generation status: growing** — 1 tick completed.
 
 ## 3. Architecture (customization layer)
 
@@ -80,13 +80,15 @@ seed.
 ## 4. Content Inventory
 
 - **Taxonomy:** History & Politics, Science & Technology, Arts & Culture, Society & Economics, People.
-- **Knowledge table:** `README.md` → `## Notable Events of 2007` (12 rows; 0 rows link to dedicated files).
-- **Dedicated topic files:** 0 — none yet; first `/grow` tick will create them.
+- **Knowledge table:** `README.md` → `## Notable Events of 2007` (12 rows; 2 rows link to dedicated files).
+- **Dedicated topic files:** 2
+  - `history-politics/virginia-tech-shooting.md` — Virginia Tech shooting (Apr 16, 2007)
+  - `science-technology/iphone-launch.md` — iPhone launch (Jun 29, 2007)
 
 ## 5. Structure Inventory
 
 Generated artifacts (maintained by `build-structure`):
-- `TIMELINE.md` — not yet generated.
+- `TIMELINE.md` — generated; 13 chronological entries covering all README knowledge-table events.
 - Category index pages `<category-slug>/index.md` — not yet generated.
 - `INDEX.md` — not yet generated.
 - Cross-reference `## Related` blocks — not yet added.
@@ -144,5 +146,19 @@ retargetability. Bootstrapped with:
   + an evolve cadence).
 - `.github/` and `.claude/` customization layers — planted verbatim by the year 2006 replant; no
   concept-specific content in either layer.
+
+### Tick 1: Virginia Tech, iPhone launch, and TIMELINE — 2026-06-12
+
+**Items**:
+- Deep-dive: Virginia Tech shooting (Apr 16, 2007) — content, high
+- Deep-dive: iPhone launch (Jun 29, 2007) — content, high
+- Generate TIMELINE.md from README knowledge table — structure, high
+
+**Adds**:
+- `history-politics/virginia-tech-shooting.md` — full deep-dive article on the April 16, 2007 mass shooting by Seung-Hui Cho; 32 victims; NICS reform aftermath. Verified against Wikipedia and History.com.
+- `science-technology/iphone-launch.md` — full deep-dive article on Apple's original iPhone announcement (Jan 9) and release (Jun 29, 2007); Time Invention of the Year; industry significance. Verified against Wikipedia and History.com.
+- `TIMELINE.md` — chronological structure artifact listing all 13 events from the README knowledge table with dates, links, and category labels.
+
+**README rows added**: 2 (existing rows updated with links to dedicated files)
 
 ---

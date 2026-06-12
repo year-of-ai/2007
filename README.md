@@ -20,8 +20,8 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2006](http
 
 | Event | Description |
 |---|---|
-| Virginia Tech shooting | On April 16, student Seung-Hui Cho killed 32 people at Virginia Tech in Blacksburg, Virginia, making it the deadliest mass shooting in modern U.S. history to that point. |
-| iPhone launched | Apple released the first iPhone on June 29, combining phone, internet browser, and iPod in one device, transforming the smartphone industry and mobile computing. |
+| [Virginia Tech shooting](history-politics/virginia-tech-shooting.md) | On April 16, student Seung-Hui Cho killed 32 people at Virginia Tech in Blacksburg, Virginia, making it the deadliest mass shooting in modern U.S. history to that point. |
+| [iPhone launched](science-technology/iphone-launch.md) | Apple released the first iPhone on June 29, combining phone, internet browser, and iPod in one device, transforming the smartphone industry and mobile computing. |
 | Benazir Bhutto assassinated | Pakistan's former prime minister was shot and killed on December 27 in Rawalpindi after a political rally, destabilizing the country ahead of scheduled January elections. |
 | Subprime mortgage crisis erupts | Bear Stearns disclosed in July that two of its subprime hedge funds had lost nearly all their value, marking the onset of the global financial crisis that deepened in 2008. |
 | *Harry Potter and the Deathly Hallows* published | J. K. Rowling's seventh and final Harry Potter novel was released on July 21, selling 11 million copies in the first 24 hours in the U.S. and UK. |
