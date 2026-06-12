@@ -1,0 +1,34 @@
+# The Year 2007
+
+A self-growing knowledge base about **the year 2007** — history, science, technology, arts, society, and people.
+
+This repository is both a knowledge base and a reusable framework. It expands autonomously via `/grow`, which researches new on-topic content, builds structure, verifies facts, and publishes — all driven by the Concept Definition in [`seed.md`](seed.md). To retarget the framework at a different subject, run `/genesis "<new concept>"`.
+
+It is the successor instance in its lineage, spawned from [year-of-ai/2006](https://github.com/year-of-ai/2006) — the year 2006.
+
+## Topics
+
+| Category | Slug |
+|---|---|
+| History & Politics | `history-politics/` |
+| Science & Technology | `science-technology/` |
+| Arts & Culture | `arts-culture/` |
+| Society & Economics | `society-economics/` |
+| People | `people/` |
+
+## Notable Events of 2007
+
+| Event | Description |
+|---|---|
+| Virginia Tech shooting | On April 16, student Seung-Hui Cho killed 32 people at Virginia Tech in Blacksburg, Virginia, making it the deadliest mass shooting in modern U.S. history to that point. |
+| iPhone launched | Apple released the first iPhone on June 29, combining phone, internet browser, and iPod in one device, transforming the smartphone industry and mobile computing. |
+| Benazir Bhutto assassinated | Pakistan's former prime minister was shot and killed on December 27 in Rawalpindi after a political rally, destabilizing the country ahead of scheduled January elections. |
+| Subprime mortgage crisis erupts | Bear Stearns disclosed in July that two of its subprime hedge funds had lost nearly all their value, marking the onset of the global financial crisis that deepened in 2008. |
+| *Harry Potter and the Deathly Hallows* published | J. K. Rowling's seventh and final Harry Potter novel was released on July 21, selling 11 million copies in the first 24 hours in the U.S. and UK. |
+| Al Gore and IPCC share Nobel Peace Prize | The Nobel Committee awarded the 2007 Peace Prize jointly to Al Gore and the IPCC on October 12 for their work building consensus on man-made climate change and its remedies. |
+| Amazon Kindle launched | Amazon introduced the Kindle e-reader on November 19 at $399, selling out within 5.5 hours and fundamentally changing how consumers purchase and read books. |
+| Writers Guild of America strike | WGA members began a strike on November 5 over compensation for internet-distributed content, halting U.S. television production for 100 days and reshaping residual-pay rules. |
+| *No Country for Old Men* released | The Coen Brothers' adaptation of Cormac McCarthy's novel opened in November, winning four Academy Awards including Best Picture at the 80th ceremony in February 2008. |
+| Facebook Platform opens to developers | In May, Facebook unveiled its developer platform, enabling third-party applications on the social network and accelerating its growth past MySpace in global traffic. |
+| Luciano Pavarotti dies | The Italian tenor, widely regarded as the greatest operatic voice of the 20th century, died of pancreatic cancer on September 6 at his home in Modena, aged 71. |
+| Boris Yeltsin dies | Russia's first post-Soviet president died of cardiac arrest on April 23 in Moscow aged 76; President Putin declared the day of his funeral a national day of mourning. |
