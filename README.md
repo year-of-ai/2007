@@ -1,5 +1,10 @@
 # The Year 2007
 
+> **Consolidated into [year-of-ai/2005-2011](https://github.com/year-of-ai/2005-2011).**
+> This repository is archived and read-only. All content has been preserved under the
+> `2007/` directory in the consolidated range repository.
+
+
 > **Status: mature** — This repository completed 3 growth ticks and has been replanted. Its successor is [year-of-ai/2008](https://github.com/year-of-ai/2008) — the year 2008.
 
 A self-growing knowledge base about **the year 2007** — history, science, technology, arts, society, and people.
