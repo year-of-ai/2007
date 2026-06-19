@@ -28,7 +28,8 @@ The Bear Stearns hedge fund collapse in July 2007 is widely regarded as the prox
 - [SEC Charges Two Former Bear Stearns Hedge Fund Managers With Fraud — SEC.gov](https://www.sec.gov/news/press/2008/2008-115.htm)
 - [The U.S. Financial Crisis — Council on Foreign Relations](https://www.cfr.org/timelines/us-financial-crisis)
 
-<!-- BEGIN GENERATED: crossrefs -->
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+
 ## Related
 
 - [iPhone Launch](../science-technology/iphone-launch.md) — Major technology milestone of 2007.

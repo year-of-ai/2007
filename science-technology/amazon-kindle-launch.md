@@ -30,7 +30,8 @@ The device established Amazon as a hardware company alongside its identity as a 
 - [A look back at 10 years of the Amazon Kindle - About Amazon](https://www.aboutamazon.com/news/devices/a-look-back-at-10-years-of-the-amazon-kindle)
 - [The inside story of how the Kindle was born - About Amazon](https://www.aboutamazon.com/news/devices/the-inside-story-of-how-the-kindle-was-born)
 
-<!-- BEGIN GENERATED: crossrefs -->
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+
 ## Related
 
 - [iPhone Launch](iphone-launch.md) — Apple's transformative device launch earlier the same year.

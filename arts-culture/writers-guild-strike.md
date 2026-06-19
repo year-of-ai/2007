@@ -27,7 +27,8 @@ The 2007–08 WGA strike lasted 100 days, concluding on February 12, 2008, when 
 - [2007-08 Writers Guild of America Strike — EBSCO Research Starters](https://www.ebsco.com/research-starters/history/2007-08-writers-guild-america-strike)
 - [Everything you need to know about the 2007 WGA strike and the shows it impacted — National World](https://www.nationalworld.com/culture/film/wga-writers-strike-2007-what-happened-4135845)
 
-<!-- BEGIN GENERATED: crossrefs -->
+<!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
+
 ## Related
 
 - [Harry Potter and the Deathly Hallows](harry-potter-deathly-hallows.md) — Major publishing event of 2007 in the same Arts & Culture category.
