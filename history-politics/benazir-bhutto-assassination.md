@@ -25,6 +25,13 @@ Benazir Bhutto was the first woman to lead a Muslim-majority country, having ser
 
 The assassination accelerated Musharraf's political decline. The February 2008 elections resulted in a coalition government hostile to him, and he resigned the presidency in August 2008. Bhutto's murder remains a landmark moment in the long struggle between Pakistani democratic forces and extremist violence, and it catalyzed renewed international focus on the country's security situation. The PPP's electoral success following her death has been attributed in part to a sympathy wave; her image and legacy became central to Pakistani opposition politics for years afterward.
 
+## Sources
+
+- [Assassination of Benazir Bhutto — Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Benazir_Bhutto)
+- [Pakistani politician Benazir Bhutto assassinated — History.com](https://www.history.com/this-day-in-history/december-27/pakistani-politician-benazir-bhutto-assassinated)
+- [UN report on Bhutto murder finds Pakistani officials 'failed profoundly' — UN News](https://news.un.org/en/story/2010/04/335482)
+- [Scotland Yard: Bomb blast killed Bhutto — CNN](https://www.cnn.com/2008/WORLD/asiapcf/02/08/pakistan.bhutto/index.html)
+
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 
 ## Related
@@ -34,10 +41,3 @@ The assassination accelerated Musharraf's political decline. The February 2008 e
 - [iPhone Launch](../science-technology/iphone-launch.md) — Contemporaneous landmark event of 2007.
 
 <!-- END GENERATED: crossrefs -->
-
-## Sources
-
-- [Assassination of Benazir Bhutto — Wikipedia](https://en.wikipedia.org/wiki/Assassination_of_Benazir_Bhutto)
-- [Pakistani politician Benazir Bhutto assassinated — History.com](https://www.history.com/this-day-in-history/december-27/pakistani-politician-benazir-bhutto-assassinated)
-- [UN report on Bhutto murder finds Pakistani officials 'failed profoundly' — UN News](https://news.un.org/en/story/2010/04/335482)
-- [Scotland Yard: Bomb blast killed Bhutto — CNN](https://www.cnn.com/2008/WORLD/asiapcf/02/08/pakistan.bhutto/index.html)

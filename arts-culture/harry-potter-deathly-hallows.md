@@ -27,6 +27,13 @@ The economic scale of the series finale illustrated the book industry's capacity
 
 The Harry Potter franchise also catalyzed the broader "young adult" publishing category into a commercial force capable of competing with adult mainstream fiction, directly influencing the rise of subsequent franchise series such as Twilight and The Hunger Games.
 
+## Sources
+
+- [Harry Potter and the Deathly Hallows — Wikipedia](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows)
+- [Scholastic and Harry Potter and the Deathly Hallows Make Publishing History with 8.3 Million Copies Sold in First 24 Hours — Scholastic Press Release](https://www.scholastic.com/newsroom/all-news/press-release/scholastic-and-harry-potter-and-the-deathly-hallows-make-publish.html)
+- [Fastest-selling book of fiction in 24 hours — Guinness World Records](https://www.guinnessworldrecords.com/world-records/fastest-selling-book-of-fiction-in-24-hours)
+- [Harry Potter and the Deathly Hallows — Britannica](https://www.britannica.com/topic/Harry-Potter-and-the-Deathly-Hallows)
+
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 
 ## Related
@@ -36,10 +43,3 @@ The Harry Potter franchise also catalyzed the broader "young adult" publishing c
 - [Al Gore and IPCC Nobel Peace Prize](../history-politics/al-gore-ipcc-nobel-peace-prize.md) — Major 2007 milestone with global significance.
 
 <!-- END GENERATED: crossrefs -->
-
-## Sources
-
-- [Harry Potter and the Deathly Hallows — Wikipedia](https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows)
-- [Scholastic and Harry Potter and the Deathly Hallows Make Publishing History with 8.3 Million Copies Sold in First 24 Hours — Scholastic Press Release](https://www.scholastic.com/newsroom/all-news/press-release/scholastic-and-harry-potter-and-the-deathly-hallows-make-publish.html)
-- [Fastest-selling book of fiction in 24 hours — Guinness World Records](https://www.guinnessworldrecords.com/world-records/fastest-selling-book-of-fiction-in-24-hours)
-- [Harry Potter and the Deathly Hallows — Britannica](https://www.britannica.com/topic/Harry-Potter-and-the-Deathly-Hallows)

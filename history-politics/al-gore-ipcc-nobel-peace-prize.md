@@ -27,6 +27,13 @@ Awarding a Peace Prize — rather than a science prize — to climate advocates 
 
 For Al Gore personally, the prize confirmed a political and cultural rehabilitation following his narrow and contested loss to George W. Bush in the 2000 U.S. presidential election. It intensified speculation, ultimately unfulfilled, about a potential 2008 presidential run. The combination of the Oscar and the Nobel in a single calendar year made Gore among the very few individuals to win both distinctions, and it cemented his status as the leading public voice on climate change entering the critical decade of the 2010s.
 
+## Sources
+
+- [2007 Nobel Peace Prize — Wikipedia](https://en.wikipedia.org/wiki/2007_Nobel_Peace_Prize)
+- [The Nobel Peace Prize 2007 — NobelPrize.org](https://www.nobelprize.org/prizes/peace/2007/summary/)
+- [Al Gore wins Nobel Prize in the wake of "An Inconvenient Truth" — History.com](https://www.history.com/this-day-in-history/october-12/al-gore-wins-nobel-prize-in-the-wake-of-an-inconvenient-truth)
+- [2007 Nobel Peace Prize — United Nations](https://www.un.org/en/about-us/nobel-peace-prize/ipcc-al-gore-2007)
+
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 
 ## Related
@@ -36,10 +43,3 @@ For Al Gore personally, the prize confirmed a political and cultural rehabilitat
 - [iPhone Launch](../science-technology/iphone-launch.md) — Contemporaneous landmark technology milestone of 2007.
 
 <!-- END GENERATED: crossrefs -->
-
-## Sources
-
-- [2007 Nobel Peace Prize — Wikipedia](https://en.wikipedia.org/wiki/2007_Nobel_Peace_Prize)
-- [The Nobel Peace Prize 2007 — NobelPrize.org](https://www.nobelprize.org/prizes/peace/2007/summary/)
-- [Al Gore wins Nobel Prize in the wake of "An Inconvenient Truth" — History.com](https://www.history.com/this-day-in-history/october-12/al-gore-wins-nobel-prize-in-the-wake-of-an-inconvenient-truth)
-- [2007 Nobel Peace Prize — United Nations](https://www.un.org/en/about-us/nobel-peace-prize/ipcc-al-gore-2007)
