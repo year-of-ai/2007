@@ -16,6 +16,7 @@ See also: [History & Politics index](history-politics/index.md)
 
 - [iPhone Launch](science-technology/iphone-launch.md) — June 29, 2007; Apple's original iPhone transforms the smartphone industry.
 - [Amazon Kindle Launch](science-technology/amazon-kindle-launch.md) — November 19, 2007; Amazon's first Kindle e-reader launches the mass-market digital reading era.
+- [Facebook Platform Launch](science-technology/facebook-platform.md) — May 24, 2007; Facebook opens its social graph to developers, pioneering the open-platform model.
 
 See also: [Science & Technology index](science-technology/index.md)
 
@@ -23,6 +24,7 @@ See also: [Science & Technology index](science-technology/index.md)
 
 - [Harry Potter and the Deathly Hallows](arts-culture/harry-potter-deathly-hallows.md) — July 21, 2007; fastest-selling fiction book in history concludes the series.
 - [Writers Guild of America Strike](arts-culture/writers-guild-strike.md) — November 5, 2007–February 12, 2008; 100-day WGA strike reshapes digital residual-pay rules.
+- [No Country for Old Men](arts-culture/no-country-for-old-men.md) — November 21, 2007; the Coen Brothers' McCarthy adaptation wins four Academy Awards including Best Picture.
 
 See also: [Arts & Culture index](arts-culture/index.md)
 
@@ -34,7 +36,7 @@ See also: [Society & Economics index](society-economics/index.md)
 
 ## People
 
-_No dedicated topic files yet._
+- [Luciano Pavarotti](people/luciano-pavarotti.md) — September 6, 2007; the operatic tenor who brought opera to mass audiences dies in Modena at age 71.
 
 See also: [People index](people/index.md)
 
