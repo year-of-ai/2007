@@ -7,6 +7,7 @@ A master index of all content in this knowledge base, organized by category.
 ## History & Politics
 
 - [Virginia Tech Shooting](history-politics/virginia-tech-shooting.md) — April 16, 2007; deadliest mass shooting in modern U.S. history to that point.
+- [I-35W Bridge Collapse](history-politics/i35w-bridge-collapse.md) — August 1, 2007; Minneapolis interstate bridge collapse kills 13 and triggers national infrastructure reckoning.
 - [Assassination of Benazir Bhutto](history-politics/benazir-bhutto-assassination.md) — December 27, 2007; Pakistan's former PM killed in Rawalpindi suicide attack.
 - [Al Gore and IPCC Nobel Peace Prize](history-politics/al-gore-ipcc-nobel-peace-prize.md) — October 12, 2007; shared Nobel Prize for climate change advocacy and science.
 
@@ -37,6 +38,7 @@ See also: [Society & Economics index](society-economics/index.md)
 ## People
 
 - [Luciano Pavarotti](people/luciano-pavarotti.md) — September 6, 2007; the operatic tenor who brought opera to mass audiences dies in Modena at age 71.
+- [Boris Yeltsin](people/boris-yeltsin.md) — April 23, 2007; Russia's first post-Soviet president, architect of its turbulent democratic transition, dies in Moscow at age 76.
 
 See also: [People index](people/index.md)
 

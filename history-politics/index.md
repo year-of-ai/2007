@@ -7,6 +7,7 @@ Events, political developments, and historical milestones from the year 2007.
 | Topic | Summary |
 |---|---|
 | [Virginia Tech Shooting](virginia-tech-shooting.md) | On April 16, Seung-Hui Cho killed 32 students and faculty at Virginia Tech; the deadliest mass shooting in modern U.S. history to that point, prompting landmark federal gun legislation. |
+| [I-35W Bridge Collapse](i35w-bridge-collapse.md) | On August 1, an Interstate 35W steel truss bridge over the Mississippi River in Minneapolis collapsed during rush hour, killing 13 and injuring 145, exposing a fatal gusset-plate design flaw and prompting national infrastructure scrutiny. |
 | [Assassination of Benazir Bhutto](benazir-bhutto-assassination.md) | On December 27, Pakistan's twice-former Prime Minister was killed in Rawalpindi by a gunman and suicide bomber, deepening the country's political crisis ahead of January 2008 elections. |
 | [Al Gore and IPCC Nobel Peace Prize](al-gore-ipcc-nobel-peace-prize.md) | On October 12, the Nobel Committee awarded the Peace Prize jointly to Al Gore and the IPCC for their efforts to raise awareness of man-made climate change and build international consensus for action. |
 
