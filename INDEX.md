@@ -32,6 +32,8 @@ See also: [Arts & Culture index](arts-culture/index.md)
 ## Society & Economics
 
 - [Subprime Mortgage Crisis and Bear Stearns Hedge Fund Collapse](society-economics/subprime-mortgage-crisis.md) — July 2007; Bear Stearns fund collapse catalyzes the 2008 global financial crisis.
+- [Stock Market Peaks Before 2008 Crisis](society-economics/stock-market-peak-october-2007.md) — October 9, 2007; the Dow Jones closes at an all-time high of 14,164.53 before the financial crisis.
+- [Oil Prices Spike to Near $100 per Barrel](society-economics/oil-price-spike-2007.md) — November 21, 2007; crude oil reaches $99.29, the closest it had ever come to $100.
 
 See also: [Society & Economics index](society-economics/index.md)
 
