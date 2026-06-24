@@ -10,6 +10,7 @@ A master index of all content in this knowledge base, organized by category.
 - [I-35W Bridge Collapse](history-politics/i35w-bridge-collapse.md) — August 1, 2007; Minneapolis interstate bridge collapse kills 13 and triggers national infrastructure reckoning.
 - [Assassination of Benazir Bhutto](history-politics/benazir-bhutto-assassination.md) — December 27, 2007; Pakistan's former PM killed in Rawalpindi suicide attack.
 - [Al Gore and IPCC Nobel Peace Prize](history-politics/al-gore-ipcc-nobel-peace-prize.md) — October 12, 2007; shared Nobel Prize for climate change advocacy and science.
+- [Iraq War Troop Surge](history-politics/iraq-war-troop-surge.md) — January 10, 2007; Bush's roughly 30,000-troop escalation and counterinsurgency shift under General Petraeus.
 
 See also: [History & Politics index](history-politics/index.md)
 
@@ -18,6 +19,8 @@ See also: [History & Politics index](history-politics/index.md)
 - [iPhone Launch](science-technology/iphone-launch.md) — June 29, 2007; Apple's original iPhone transforms the smartphone industry.
 - [Amazon Kindle Launch](science-technology/amazon-kindle-launch.md) — November 19, 2007; Amazon's first Kindle e-reader launches the mass-market digital reading era.
 - [Facebook Platform Launch](science-technology/facebook-platform.md) — May 24, 2007; Facebook opens its social graph to developers, pioneering the open-platform model.
+- [Arctic Sea Ice Record Low and Northwest Passage Opening](science-technology/arctic-sea-ice-record-low.md) — September 16, 2007; satellite-era minimum sea-ice extent opens the Northwest Passage to icebreaker-free navigation.
+- [Induced Pluripotent Stem Cells Breakthrough](science-technology/induced-pluripotent-stem-cells.md) — November 2007; adult human cells reprogrammed to pluripotency, transforming regenerative medicine without embryo use.
 
 See also: [Science & Technology index](science-technology/index.md)
 
