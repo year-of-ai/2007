@@ -26,6 +26,9 @@ See also: [Science & Technology index](science-technology/index.md)
 
 ## Arts & Culture
 
+- [Britney Spears Head-Shaving Incident](arts-culture/britney-spears-head-shaving-2007.md) — February 16, 2007; a heavily photographed celebrity crisis that became a touchstone in tabloid-era mental-health discourse.
+- [Imus in the Morning Cancellation](arts-culture/imus-in-the-morning-cancellation.md) — April 12, 2007; CBS Radio cancels Don Imus's program after racial remarks about the Rutgers women's basketball team.
+- [Live Earth 2007 Concerts](arts-culture/live-earth-2007.md) — July 7, 2007; more than 150 acts across twelve venues on all seven continents stage a global climate-awareness benefit concert.
 - [Harry Potter and the Deathly Hallows](arts-culture/harry-potter-deathly-hallows.md) — July 21, 2007; fastest-selling fiction book in history concludes the series.
 - [Writers Guild of America Strike](arts-culture/writers-guild-strike.md) — November 5, 2007–February 12, 2008; 100-day WGA strike reshapes digital residual-pay rules.
 - [No Country for Old Men](arts-culture/no-country-for-old-men.md) — November 21, 2007; the Coen Brothers' McCarthy adaptation wins four Academy Awards including Best Picture.
