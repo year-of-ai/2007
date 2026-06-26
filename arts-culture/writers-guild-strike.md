@@ -1,6 +1,6 @@
 ---
 title: "Writers Guild of America Strike (2007–08)"
-date: 2007-11-05
+date: "2007-11-05"
 category: "Arts & Culture"
 ---
 

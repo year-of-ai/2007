@@ -1,6 +1,6 @@
 ---
 title: "Subprime Mortgage Crisis and Bear Stearns Hedge Fund Collapse (2007)"
-date: 2007-07-16
+date: "2007-07-16"
 category: "Society & Economics"
 ---
 
