@@ -41,6 +41,8 @@ See also: [Arts & Culture index](arts-culture/index.md)
 ## Society & Economics
 
 - [Subprime Mortgage Crisis and Bear Stearns Hedge Fund Collapse](society-economics/subprime-mortgage-crisis.md) — July 2007; Bear Stearns fund collapse catalyzes the 2008 global financial crisis.
+- [Ben Bernanke and the Federal Reserve's 2007 Crisis Response](society-economics/ben-bernanke-fed-2007.md) — 2007; the Fed cuts rates 100 bp, creates the Term Auction Facility, and coordinates global liquidity to contain the credit crunch.
+- [Hank Paulson and the Treasury Department's 2007 Crisis Response](society-economics/hank-paulson-treasury-2007.md) — 2007; Treasury coordinates the early crisis response, the Hope Now Alliance, and the December ARM rate-freeze plan.
 - [Stock Market Peaks Before 2008 Crisis](society-economics/stock-market-peak-october-2007.md) — October 9, 2007; the Dow Jones closes at an all-time high of 14,164.53 before the financial crisis.
 - [Oil Prices Spike to Near $100 per Barrel](society-economics/oil-price-spike-2007.md) — November 21, 2007; crude oil reaches $99.29, the closest it had ever come to $100.
 
@@ -48,6 +50,7 @@ See also: [Society & Economics index](society-economics/index.md)
 
 ## People
 
+- [Kurt Vonnegut Jr.](people/kurt-vonnegut.md) — April 11, 2007; the *Slaughterhouse-Five* author and humanist moral voice dies in New York City at age 84.
 - [Luciano Pavarotti](people/luciano-pavarotti.md) — September 6, 2007; the operatic tenor who brought opera to mass audiences dies in Modena at age 71.
 - [Boris Yeltsin](people/boris-yeltsin.md) — April 23, 2007; Russia's first post-Soviet president, architect of its turbulent democratic transition, dies in Moscow at age 76.
 

@@ -94,7 +94,8 @@ The crisis accelerated regulatory scrutiny of leverage, transparency, and risk m
 
 ## Related
 
-- [iPhone Launch](../science-technology/iphone-launch.md) — Major technology milestone of 2007.
-- [Virginia Tech Shooting](../history-politics/virginia-tech-shooting.md) — Another major crisis event of 2007.
-- [Amazon Kindle Launch](../science-technology/amazon-kindle-launch.md) — Contemporaneous technology milestone of late 2007.
+- [Ben Bernanke and the Federal Reserve's 2007 Crisis Response](ben-bernanke-fed-2007.md) — The Fed's emergency rate cuts and lending facilities mounted in response to this crisis.
+- [Hank Paulson and the Treasury Department's 2007 Crisis Response](hank-paulson-treasury-2007.md) — Treasury's parallel efforts to contain the crisis and stem foreclosures during 2007.
+- [Stock Market Peaks Before 2008 Crisis](stock-market-peak-october-2007.md) — The October 2007 equity zenith that preceded the crisis-driven collapse.
+- [Oil Prices Spike to Near $100 per Barrel](oil-price-spike-2007.md) — Concurrent energy-market stress that compounded the economic strain of late 2007.
 <!-- END GENERATED: crossrefs -->

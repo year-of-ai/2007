@@ -6,6 +6,7 @@ Notable individuals whose lives, deaths, or actions were defined by the year 200
 
 | Topic | Summary |
 |---|---|
+| [Kurt Vonnegut Jr.](kurt-vonnegut.md) | The acclaimed American author of *Slaughterhouse-Five* and humanist moral voice died on April 11 at age 84 from injuries sustained in a fall, ending one of postwar literature's most influential careers. |
 | [Luciano Pavarotti](luciano-pavarotti.md) | The Italian operatic tenor, widely regarded as the greatest of the 20th century's second half, died of pancreatic cancer on September 6 in Modena at age 71, ending a 46-year career that brought opera to mass audiences. |
 | [Boris Yeltsin](boris-yeltsin.md) | Russia's first post-Soviet president (1991–1999), who defied the August 1991 coup and oversaw the dissolution of the USSR, died of congestive heart failure on April 23 in Moscow at age 76. |
 
