@@ -23,7 +23,7 @@ See also: [History & Politics index](history-politics/index.md)
 - [Arctic Sea Ice Record Low and Northwest Passage Opening](science-technology/arctic-sea-ice-record-low.md) — September 16, 2007; satellite-era minimum sea-ice extent opens the Northwest Passage to icebreaker-free navigation.
 - [Induced Pluripotent Stem Cells Breakthrough](science-technology/induced-pluripotent-stem-cells.md) — November 2007; adult human cells reprogrammed to pluripotency, transforming regenerative medicine without embryo use.
 - [IPCC Fourth Assessment Report (AR4)](science-technology/ipcc-fourth-assessment-report.md) — 2007; the landmark climate assessment that judged warming "unequivocal" and very likely human-caused, sharing the Nobel Peace Prize with Al Gore.
-- [YouTube's Rise as Global Media Platform](science-technology/youtube-growth-2007.md) — 2007; post-acquisition growth to 100+ million daily views, the Partner Program, and the CNN debates that founded the creator economy.
+- [YouTube's Rise as Global Media Platform](science-technology/youtube-growth-2007.md) — 2007; post-acquisition growth to 100+ million daily views, the revenue-sharing Partner Program that seeded the creator economy, and the first CNN citizen-question presidential debates.
 
 See also: [Science & Technology index](science-technology/index.md)
 

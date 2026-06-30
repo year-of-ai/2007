@@ -46,7 +46,7 @@ In her 2023 memoir *The Woman in Me*, Spears described the head-shaving as one o
 
 The head-shaving incident became a pivotal moment in discussions about celebrity privacy, mental health, and the legal mechanisms that constrain women's autonomy. It is now widely cited as an early warning sign of a systemic failure — by media, management, and legal institutions — to distinguish between personal crisis and willful resistance. The conservatorship it preceded represents one of the most contested legal arrangements in American celebrity history, prompting legislative scrutiny of conservatorship law in California and nationally.
 
-The 2007 media treatment of Spears stands as a point of contrast with later, more nuanced frameworks for discussing public figures' mental health, and the incident is frequently invoked in discussions of the [Imus in the Morning Cancellation](imus-in-the-morning-cancellation.md) as a parallel example of 2007 media culture failing to apply consistent ethical standards.
+The 2007 media treatment of Spears stands as a point of contrast with later, more nuanced frameworks for discussing public figures' mental health.
 
 ## Sources
 
