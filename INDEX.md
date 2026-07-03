@@ -53,6 +53,8 @@ See also: [Society & Economics index](society-economics/index.md)
 - [Kurt Vonnegut Jr.](people/kurt-vonnegut.md) — April 11, 2007; the *Slaughterhouse-Five* author and humanist moral voice dies in New York City at age 84.
 - [Luciano Pavarotti](people/luciano-pavarotti.md) — September 6, 2007; the operatic tenor who brought opera to mass audiences dies in Modena at age 71.
 - [Boris Yeltsin](people/boris-yeltsin.md) — April 23, 2007; Russia's first post-Soviet president, architect of its turbulent democratic transition, dies in Moscow at age 76.
+- [Anna Nicole Smith](people/anna-nicole-smith.md) — February 8, 2007; the model, actress, and reality-television star dies of an accidental drug overdose at age 39, later prompting two U.S. Supreme Court estate rulings.
+- [Ingmar Bergman](people/ingmar-bergman.md) — July 30, 2007; the Swedish filmmaker behind *The Seventh Seal* dies on Fårö at age 89, the same day as director Michelangelo Antonioni.
 
 See also: [People index](people/index.md)
 
