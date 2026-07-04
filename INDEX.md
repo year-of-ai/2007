@@ -12,6 +12,8 @@ A master index of all content in this knowledge base, organized by category.
 - [Al Gore and IPCC Nobel Peace Prize](history-politics/al-gore-ipcc-nobel-peace-prize.md) — October 12, 2007; shared Nobel Prize for climate change advocacy and science.
 - [Iraq War Troop Surge](history-politics/iraq-war-troop-surge.md) — January 10, 2007; Bush's roughly 30,000-troop escalation and counterinsurgency shift under General Petraeus.
 - [Darfur Conflict in 2007](history-politics/darfur-conflict-2007.md) — 2007 turning point in the world's worst humanitarian crisis; ICC war-crimes warrants, U.S. sanctions, and UN Resolution 1769 authorizing the UNAMID peacekeeping force.
+- [Gordon Brown becomes UK Prime Minister](history-politics/gordon-brown-becomes-pm.md) — June 27, 2007; Brown succeeds Tony Blair after a decade as Chancellor, in the first mid-Parliament change of premier since 1990 and without a general election.
+- [Russia-Georgia conflict escalates](history-politics/russia-georgia-conflict-2007.md) — 2007; escalating incidents over South Ossetia and Abkhazia, including the August Tsitelubani missile strike, foreshadow the 2008 Russo-Georgian War.
 
 See also: [History & Politics index](history-politics/index.md)
 
@@ -55,6 +57,7 @@ See also: [Society & Economics index](society-economics/index.md)
 - [Boris Yeltsin](people/boris-yeltsin.md) — April 23, 2007; Russia's first post-Soviet president, architect of its turbulent democratic transition, dies in Moscow at age 76.
 - [Anna Nicole Smith](people/anna-nicole-smith.md) — February 8, 2007; the model, actress, and reality-television star dies of an accidental drug overdose at age 39, later prompting two U.S. Supreme Court estate rulings.
 - [Ingmar Bergman](people/ingmar-bergman.md) — July 30, 2007; the Swedish filmmaker behind *The Seventh Seal* dies on Fårö at age 89, the same day as director Michelangelo Antonioni.
+- [Paris Hilton jail sentence](people/paris-hilton-jail-2007.md) — June 2007; the heiress serves 23 days for a probation violation, becoming a defining celebrity-media spectacle of 2007.
 
 See also: [People index](people/index.md)
 
