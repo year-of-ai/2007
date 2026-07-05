@@ -14,6 +14,8 @@ A master index of all content in this knowledge base, organized by category.
 - [Darfur Conflict in 2007](history-politics/darfur-conflict-2007.md) — 2007 turning point in the world's worst humanitarian crisis; ICC war-crimes warrants, U.S. sanctions, and UN Resolution 1769 authorizing the UNAMID peacekeeping force.
 - [Gordon Brown becomes UK Prime Minister](history-politics/gordon-brown-becomes-pm.md) — June 27, 2007; Brown succeeds Tony Blair after a decade as Chancellor, in the first mid-Parliament change of premier since 1990 and without a general election.
 - [Russia-Georgia conflict escalates](history-politics/russia-georgia-conflict-2007.md) — 2007; escalating incidents over South Ossetia and Abkhazia, including the August Tsitelubani missile strike, foreshadow the 2008 Russo-Georgian War.
+- [Nancy Pelosi becomes Speaker of the House](history-politics/nancy-pelosi-speaker.md) — January 4, 2007; the first woman elected Speaker of the U.S. House, second in the presidential line of succession.
+- [Mahmoud Ahmadinejad's Columbia University speech](history-politics/ahmadinejad-columbia-speech.md) — September 24, 2007; the Iranian president's contentious World Leaders Forum appearance became a landmark test of academic engagement with authoritarian leaders.
 
 See also: [History & Politics index](history-politics/index.md)
 
@@ -37,6 +39,7 @@ See also: [Science & Technology index](science-technology/index.md)
 - [Harry Potter and the Deathly Hallows](arts-culture/harry-potter-deathly-hallows.md) — July 21, 2007; fastest-selling fiction book in history concludes the series.
 - [Writers Guild of America Strike](arts-culture/writers-guild-strike.md) — November 5, 2007–February 12, 2008; 100-day WGA strike reshapes digital residual-pay rules.
 - [No Country for Old Men](arts-culture/no-country-for-old-men.md) — November 21, 2007; the Coen Brothers' McCarthy adaptation wins four Academy Awards including Best Picture.
+- [Second Life peaks as social and corporate phenomenon](arts-culture/second-life-2007.md) — 2007; the virtual world reaches its cultural and corporate peak with ~7 million accounts and heavy corporate investment, epitomizing the era's virtual-world optimism.
 
 See also: [Arts & Culture index](arts-culture/index.md)
 

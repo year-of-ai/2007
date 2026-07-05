@@ -27,11 +27,13 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2006](http
 
 | Event | Description |
 |---|---|
+| [Nancy Pelosi becomes Speaker of the House](history-politics/nancy-pelosi-speaker.md) | On January 4, Nancy Pelosi was elected Speaker, becoming the first woman to hold the position in U.S. history when the 110th Congress convened. |
 | [Virginia Tech shooting](history-politics/virginia-tech-shooting.md) | On April 16, student Seung-Hui Cho killed 32 people at Virginia Tech in Blacksburg, then the deadliest mass shooting in modern U.S. history. |
 | [iPhone launched](science-technology/iphone-launch.md) | Apple released the first iPhone on June 29, combining phone, internet browser, and iPod in one device, transforming the smartphone industry and mobile computing. |
 | [Gordon Brown becomes UK Prime Minister](history-politics/gordon-brown-becomes-pm.md) | On June 27, Gordon Brown succeeded Tony Blair as Prime Minister after a decade as Chancellor, taking office mid-Parliament without a general election. |
 | [Paris Hilton jail sentence](people/paris-hilton-jail-2007.md) | From June 3 to 26, heiress Paris Hilton served 23 days in jail for a probation violation, becoming a dominant symbol of 2007 celebrity-media culture. |
 | [I-35W Bridge collapses](history-politics/i35w-bridge-collapse.md) | A steel truss bridge over the Mississippi River in Minneapolis collapsed on August 1, killing 13 and injuring 145, prompting national scrutiny of aging infrastructure. |
+| [Mahmoud Ahmadinejad's Columbia University speech](history-politics/ahmadinejad-columbia-speech.md) | On September 24, Iranian President Ahmadinejad delivered a controversial speech at Columbia University's World Leaders Forum amid intense security and political protests, exemplifying U.S.-Iran tensions. |
 | [Russia-Georgia conflict escalates](history-politics/russia-georgia-conflict-2007.md) | Military tensions between Russia and Georgia intensified throughout 2007 over South Ossetia and Abkhazia, foreshadowing the 2008 war. |
 | [Benazir Bhutto assassinated](history-politics/benazir-bhutto-assassination.md) | Pakistan's former prime minister was shot and killed on December 27 in Rawalpindi after a political rally, destabilizing the country ahead of scheduled January elections. |
 | [Hank Paulson Treasury crisis response](society-economics/hank-paulson-treasury-2007.md) | Treasury Secretary Paulson, former Goldman Sachs CEO, coordinated the government's early response to the subprime crisis, managing liquidity and international coordination through 2007. |
@@ -59,3 +61,4 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2006](http
 | [Britney Spears shaves her head](arts-culture/britney-spears-head-shaving-2007.md) | On February 16, Britney Spears shaved her head at a Los Angeles salon amid a personal crisis, drawing intense media and public scrutiny. |
 | [Live Earth 2007](arts-culture/live-earth-2007.md) | On July 7, over 150 acts performed across all seven continents to raise climate-change awareness, in one of the largest coordinated music events ever staged. |
 | [Imus in the Morning cancelled](arts-culture/imus-in-the-morning-cancellation.md) | Radio host Don Imus's racist and sexist on-air remarks about the Rutgers women's basketball team led CBS Radio to cancel his program on April 12. |
+| [Second Life peaks as social and corporate phenomenon](arts-culture/second-life-2007.md) | Virtual world Second Life reached peak adoption in 2007 with seven million users and massive corporate investment from Disney, IBM, Reuters, and others, exemplifying the era's metaverse optimism. |
