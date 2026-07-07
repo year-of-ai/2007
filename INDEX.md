@@ -28,6 +28,9 @@ See also: [History & Politics index](history-politics/index.md)
 - [Induced Pluripotent Stem Cells Breakthrough](science-technology/induced-pluripotent-stem-cells.md) — November 2007; adult human cells reprogrammed to pluripotency, transforming regenerative medicine without embryo use.
 - [IPCC Fourth Assessment Report (AR4)](science-technology/ipcc-fourth-assessment-report.md) — 2007; the landmark climate assessment that judged warming "unequivocal" and very likely human-caused, sharing the Nobel Peace Prize with Al Gore.
 - [YouTube's Rise as Global Media Platform](science-technology/youtube-growth-2007.md) — 2007; post-acquisition growth to 100+ million daily views, the revenue-sharing Partner Program that seeded the creator economy, and the first CNN citizen-question presidential debates.
+- [Google Street View Launch](science-technology/google-street-view-launch.md) — May 25, 2007; panoramic street-level imagery arrives in Google Maps, transforming online mapping and opening a decade of geospatial-privacy debate.
+- [Blu-ray vs. HD-DVD Format War](science-technology/blu-ray-hd-dvd-format-war-2007.md) — 2007; the high-definition optical-disc war reaches its decisive phase as PlayStation 3 and exclusive studio deals swing the market to Blu-ray.
+- [Singularity University Founding](science-technology/singularity-university-founding.md) — mid-2007 conception by Peter Diamandis and Ray Kurzweil; formally established in 2008 at NASA Research Park to teach exponential technologies.
 
 See also: [Science & Technology index](science-technology/index.md)
 
