@@ -1,6 +1,6 @@
 ---
 title: "Amazon Kindle Launch"
-date: "2007-11-19"
+date: 2007-11-19
 category: "Science & Technology"
 ---
 

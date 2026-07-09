@@ -1,6 +1,6 @@
 ---
 title: "Assassination of Benazir Bhutto"
-date: "2007-12-27"
+date: 2007-12-27
 category: "History & Politics"
 ---
 

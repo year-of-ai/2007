@@ -1,6 +1,6 @@
 ---
 title: "Gordon Brown becomes UK Prime Minister"
-date: "2007-06-27"
+date: 2007-06-27
 category: "History & Politics"
 ---
 

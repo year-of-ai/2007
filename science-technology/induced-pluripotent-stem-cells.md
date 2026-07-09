@@ -1,6 +1,6 @@
 ---
 title: "Induced Pluripotent Stem Cells Breakthrough"
-date: "2007-11-20"
+date: 2007-11-20
 category: "Science & Technology"
 ---
 

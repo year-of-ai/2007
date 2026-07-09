@@ -1,6 +1,6 @@
 ---
 title: "Russia-Georgia conflict escalates"
-date: "2007"
+date: 2007-01-01
 category: "History & Politics"
 ---
 

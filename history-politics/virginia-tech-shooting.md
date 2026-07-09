@@ -1,6 +1,6 @@
 ---
 title: "Virginia Tech Shooting"
-date: "2007-04-16"
+date: 2007-04-16
 category: "History & Politics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Blu-ray vs. HD-DVD Format War"
-date: "2007"
+date: 2007-01-01
 category: "Science & Technology"
 ---
 

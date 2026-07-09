@@ -1,6 +1,6 @@
 ---
 title: "Harry Potter and the Deathly Hallows"
-date: "2007-07-21"
+date: 2007-07-21
 category: "Arts & Culture"
 ---
 

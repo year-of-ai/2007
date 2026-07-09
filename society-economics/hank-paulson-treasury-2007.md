@@ -1,6 +1,6 @@
 ---
 title: "Hank Paulson and the Treasury Department's 2007 Financial Crisis Response"
-date: "2007-06-01"
+date: 2007-06-01
 category: "Society & Economics"
 ---
 

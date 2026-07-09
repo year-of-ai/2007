@@ -1,6 +1,6 @@
 ---
 title: "Nancy Pelosi becomes Speaker of the House"
-date: "2007-01-04"
+date: 2007-01-04
 category: "History & Politics"
 ---
 

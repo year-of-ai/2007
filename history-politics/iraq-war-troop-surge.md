@@ -1,6 +1,6 @@
 ---
 title: "Iraq War Troop Surge"
-date: "2007-01-10"
+date: 2007-01-10
 category: "History & Politics"
 ---
 

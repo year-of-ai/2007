@@ -1,6 +1,6 @@
 ---
 title: "Second Life peaks as a social and corporate phenomenon"
-date: "2007"
+date: 2007-01-01
 category: "Arts & Culture"
 ---
 

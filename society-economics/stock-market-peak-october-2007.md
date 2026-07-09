@@ -1,6 +1,6 @@
 ---
 title: "Stock Market Peaks Before 2008 Crisis"
-date: "2007-10-09"
+date: 2007-10-09
 category: "Society & Economics"
 ---
 

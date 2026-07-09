@@ -1,6 +1,6 @@
 ---
 title: "IPCC Fourth Assessment Report (AR4)"
-date: "2007"
+date: 2007-01-01
 category: "Science & Technology"
 ---
 

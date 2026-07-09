@@ -1,6 +1,6 @@
 ---
 title: "Live Earth 2007 Concerts"
-date: "2007-07-07"
+date: 2007-07-07
 category: "Arts & Culture"
 ---
 

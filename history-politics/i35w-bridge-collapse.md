@@ -1,6 +1,6 @@
 ---
 title: "I-35W Bridge Collapse"
-date: "2007-08-01"
+date: 2007-08-01
 category: "History & Politics"
 ---
 

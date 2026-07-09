@@ -1,6 +1,6 @@
 ---
 title: "Luciano Pavarotti"
-date: "2007-09-06"
+date: 2007-09-06
 category: "People"
 ---
 

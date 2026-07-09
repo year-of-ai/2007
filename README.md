@@ -28,6 +28,7 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2006](http
 | Event | Description |
 |---|---|
 | [Nancy Pelosi becomes Speaker of the House](history-politics/nancy-pelosi-speaker.md) | On January 4, Nancy Pelosi was elected Speaker, becoming the first woman to hold the position in U.S. history when the 110th Congress convened. |
+| [Scrutiny of Steve Jobs's health intensifies](people/steve-jobs-health-2007.md) | On January 9, a visibly gaunt Steve Jobs unveiled the iPhone at Macworld, intensifying investor scrutiny of his health after his 2004 pancreatic-tumor surgery. |
 | [Virginia Tech shooting](history-politics/virginia-tech-shooting.md) | On April 16, student Seung-Hui Cho killed 32 people at Virginia Tech in Blacksburg, then the deadliest mass shooting in modern U.S. history. |
 | [iPhone launched](science-technology/iphone-launch.md) | Apple released the first iPhone on June 29, combining phone, internet browser, and iPod in one device, transforming the smartphone industry and mobile computing. |
 | [Gordon Brown becomes UK Prime Minister](history-politics/gordon-brown-becomes-pm.md) | On June 27, Gordon Brown succeeded Tony Blair as Prime Minister after a decade as Chancellor, taking office mid-Parliament without a general election. |
@@ -49,6 +50,7 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2006](http
 | [Facebook Platform opens to developers](science-technology/facebook-platform.md) | In May, Facebook unveiled its developer platform, enabling third-party applications on the social network and accelerating its growth past MySpace in global traffic. |
 | [YouTube rises as global media platform](science-technology/youtube-growth-2007.md) | After its 2006 Google acquisition, YouTube surpassed 100 million daily views, launched its revenue-sharing Partner Program, and co-hosted CNN presidential debates, anchoring the creator economy. |
 | [Oil prices spike to near $100 per barrel](society-economics/oil-price-spike-2007.md) | Crude oil reached $99.29 per barrel on November 21, the closest prices had ever come to $100, signaling a structural shift in global energy markets. |
+| [Nuclear power renaissance begins](society-economics/nuclear-power-renaissance-2007.md) | In 2007, global interest in nuclear energy rebounded as governments embraced nuclear as a climate solution, with the U.S. receiving its first new reactor applications in 28 years and multiple countries accelerating expansion plans. |
 | [Stock market peaks before 2008 crisis](society-economics/stock-market-peak-october-2007.md) | The Dow Jones Industrial Average closed at an all-time high of 14,164.53 on October 9, the zenith of the bull market before the financial crisis. |
 | [Kurt Vonnegut dies](people/kurt-vonnegut.md) | The American author of *Slaughterhouse-Five* died on April 11 at age 84 from a fall, ending one of postwar literature's most influential and humane careers. |
 | [Luciano Pavarotti dies](people/luciano-pavarotti.md) | The Italian tenor, among the most celebrated operatic voices of the 20th century, died of pancreatic cancer on September 6 in Modena, aged 71. |

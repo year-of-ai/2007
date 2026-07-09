@@ -53,6 +53,7 @@ See also: [Arts & Culture index](arts-culture/index.md)
 - [Hank Paulson and the Treasury Department's 2007 Crisis Response](society-economics/hank-paulson-treasury-2007.md) — 2007; Treasury coordinates the early crisis response, the Hope Now Alliance, and the December ARM rate-freeze plan.
 - [Stock Market Peaks Before 2008 Crisis](society-economics/stock-market-peak-october-2007.md) — October 9, 2007; the Dow Jones closes at an all-time high of 14,164.53 before the financial crisis.
 - [Oil Prices Spike to Near $100 per Barrel](society-economics/oil-price-spike-2007.md) — November 21, 2007; crude oil reaches $99.29, the closest it had ever come to $100.
+- [Nuclear Power Renaissance Begins](society-economics/nuclear-power-renaissance-2007.md) — 2007; global interest in nuclear power rebounds on climate, energy-security, and Asian-demand pressures, with the first U.S. reactor license applications in 28 years — a revival later reversed by Fukushima.
 
 See also: [Society & Economics index](society-economics/index.md)
 
@@ -64,6 +65,7 @@ See also: [Society & Economics index](society-economics/index.md)
 - [Anna Nicole Smith](people/anna-nicole-smith.md) — February 8, 2007; the model, actress, and reality-television star dies of an accidental drug overdose at age 39, later prompting two U.S. Supreme Court estate rulings.
 - [Ingmar Bergman](people/ingmar-bergman.md) — July 30, 2007; the Swedish filmmaker behind *The Seventh Seal* dies on Fårö at age 89, the same day as director Michelangelo Antonioni.
 - [Paris Hilton jail sentence](people/paris-hilton-jail-2007.md) — June 2007; the heiress serves 23 days for a probation violation, becoming a defining celebrity-media spectacle of 2007.
+- [Scrutiny of Steve Jobs's health intensifies](people/steve-jobs-health-2007.md) — January 9, 2007; a visibly gaunt Steve Jobs unveils the iPhone at Macworld, intensifying investor and press scrutiny of his health after 2004 pancreatic-tumor surgery.
 
 See also: [People index](people/index.md)
 

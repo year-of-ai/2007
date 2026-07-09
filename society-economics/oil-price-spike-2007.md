@@ -1,6 +1,6 @@
 ---
 title: "Oil Prices Spike to Near $100 per Barrel"
-date: "2007-11-21"
+date: 2007-11-21
 category: "Society & Economics"
 ---
 

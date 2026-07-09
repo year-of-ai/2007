@@ -1,6 +1,6 @@
 ---
 title: "Arctic Sea Ice Record Low and Northwest Passage Opening"
-date: "2007-09-16"
+date: 2007-09-16
 category: "Science & Technology"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ben Bernanke and the Federal Reserve's 2007 Crisis Response"
-date: "2007-06-01"
+date: 2007-06-01
 category: "Society & Economics"
 ---
 

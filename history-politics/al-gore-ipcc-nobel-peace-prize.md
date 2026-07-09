@@ -1,6 +1,6 @@
 ---
 title: "Al Gore and IPCC Nobel Peace Prize"
-date: "2007-10-12"
+date: 2007-10-12
 category: "History & Politics"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Anna Nicole Smith"
-date: "2007-02-08"
+date: 2007-02-08
 category: "People"
 ---
 

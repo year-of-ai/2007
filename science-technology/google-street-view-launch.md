@@ -1,6 +1,6 @@
 ---
 title: "Google Street View launch"
-date: "2007-05-25"
+date: 2007-05-25
 category: "Science & Technology"
 ---
 

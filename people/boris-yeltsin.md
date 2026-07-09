@@ -1,6 +1,6 @@
 ---
 title: "Boris Yeltsin"
-date: "2007-04-23"
+date: 2007-04-23
 category: "People"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Imus in the Morning Cancellation"
-date: "2007-04-12"
+date: 2007-04-12
 category: "Arts & Culture"
 ---
 

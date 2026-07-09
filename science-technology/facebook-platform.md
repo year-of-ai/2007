@@ -1,6 +1,6 @@
 ---
 title: "Facebook Platform Launch"
-date: "2007-05-24"
+date: 2007-05-24
 category: "Science & Technology"
 ---
 

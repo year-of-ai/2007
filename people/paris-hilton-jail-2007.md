@@ -1,6 +1,6 @@
 ---
 title: "Paris Hilton jail sentence"
-date: "2007-06-03"
+date: 2007-06-03
 category: "People"
 ---
 

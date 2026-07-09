@@ -1,6 +1,6 @@
 ---
 title: "Singularity University founding"
-date: "2007-06-01"
+date: 2007-06-01
 category: "Science & Technology"
 ---
 

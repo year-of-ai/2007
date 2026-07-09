@@ -1,6 +1,6 @@
 ---
 title: "Mahmoud Ahmadinejad's Columbia University speech"
-date: "2007-09-24"
+date: 2007-09-24
 category: "History & Politics"
 ---
 

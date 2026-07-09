@@ -1,6 +1,6 @@
 ---
 title: "Britney Spears Head-Shaving Incident"
-date: "2007-02-16"
+date: 2007-02-16
 category: "Arts & Culture"
 ---
 

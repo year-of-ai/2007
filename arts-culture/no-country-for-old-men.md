@@ -1,6 +1,6 @@
 ---
 title: "No Country for Old Men"
-date: "2007-11-21"
+date: 2007-11-21
 category: "Arts & Culture"
 ---
 

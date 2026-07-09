@@ -1,6 +1,6 @@
 ---
 title: "Ingmar Bergman"
-date: "2007-07-30"
+date: 2007-07-30
 category: "People"
 ---
 

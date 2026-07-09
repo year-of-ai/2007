@@ -1,6 +1,6 @@
 ---
 title: "iPhone Launch"
-date: "2007-06-29"
+date: 2007-06-29
 category: "Science & Technology"
 ---
 
