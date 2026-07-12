@@ -13,5 +13,6 @@ Notable individuals whose lives, deaths, or actions were defined by the year 200
 | [Ingmar Bergman](ingmar-bergman.md) | The Swedish filmmaker behind *The Seventh Seal*, *Persona*, and *Fanny and Alexander*, widely regarded as one of cinema's greatest directors, died on July 30 at age 89 on Fårö — the same day as Michelangelo Antonioni. |
 | [Paris Hilton jail sentence](paris-hilton-jail-2007.md) | In June, the American heiress and reality-television personality served a 23-day Los Angeles County jail term for a probation violation; a brief release to house arrest and court-ordered return drew saturation media coverage and debate over celebrity justice. |
 | [Scrutiny of Steve Jobs's health intensifies](steve-jobs-health-2007.md) | Throughout 2007, a visibly gaunt Steve Jobs — who unveiled the first iPhone at the January Macworld keynote — drew intensifying investor and press scrutiny of his health, three years after surgery for a rare pancreatic neuroendocrine tumor. |
+| [Barry Bonds surpasses Hank Aaron's home-run record](barry-bonds-home-run-record.md) | On August 7, Barry Bonds hit his 756th career home run off Mike Bacsik at AT&T Park, breaking Hank Aaron's 32-year-old all-time record of 755 amid the BALCO steroid scandal that would shadow the achievement and keep Bonds out of the Hall of Fame. |
 
 <!-- END GENERATED: category-index -->

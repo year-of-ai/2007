@@ -54,6 +54,7 @@ See also: [Arts & Culture index](arts-culture/index.md)
 - [Stock Market Peaks Before 2008 Crisis](society-economics/stock-market-peak-october-2007.md) — October 9, 2007; the Dow Jones closes at an all-time high of 14,164.53 before the financial crisis.
 - [Oil Prices Spike to Near $100 per Barrel](society-economics/oil-price-spike-2007.md) — November 21, 2007; crude oil reaches $99.29, the closest it had ever come to $100.
 - [Nuclear Power Renaissance Begins](society-economics/nuclear-power-renaissance-2007.md) — 2007; global interest in nuclear power rebounds on climate, energy-security, and Asian-demand pressures, with the first U.S. reactor license applications in 28 years — a revival later reversed by Fukushima.
+- [China Emerges as Global Renewable Energy Manufacturing Leader](society-economics/china-renewable-energy-2007.md) — 2007; under the 2005 Renewable Energy Law, China becomes the world's second-largest solar-panel producer (820 MW) and nearly doubles its wind capacity to 5.9 GW, beginning its ascent toward dominating global clean-energy supply chains.
 
 See also: [Society & Economics index](society-economics/index.md)
 
@@ -66,6 +67,7 @@ See also: [Society & Economics index](society-economics/index.md)
 - [Ingmar Bergman](people/ingmar-bergman.md) — July 30, 2007; the Swedish filmmaker behind *The Seventh Seal* dies on Fårö at age 89, the same day as director Michelangelo Antonioni.
 - [Paris Hilton jail sentence](people/paris-hilton-jail-2007.md) — June 2007; the heiress serves 23 days for a probation violation, becoming a defining celebrity-media spectacle of 2007.
 - [Scrutiny of Steve Jobs's health intensifies](people/steve-jobs-health-2007.md) — January 9, 2007; a visibly gaunt Steve Jobs unveils the iPhone at Macworld, intensifying investor and press scrutiny of his health after 2004 pancreatic-tumor surgery.
+- [Barry Bonds Surpasses Hank Aaron's Home-Run Record](people/barry-bonds-home-run-record.md) — August 7, 2007; Bonds hits his 756th career home run to break Hank Aaron's 32-year-old all-time record, amid the BALCO steroid scandal that clouds the achievement and keeps him out of the Hall of Fame.
 
 See also: [People index](people/index.md)
 
