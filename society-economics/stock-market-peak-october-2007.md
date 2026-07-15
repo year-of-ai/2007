@@ -95,7 +95,7 @@ The 14,164 level on the Dow Jones would not be seen again for nearly six years. 
 ### Lessons and Reflections
 
 The October 2007 peak illustrated:
-- **The danger of complacency**: The belief that risk had been engineered away through financial innovation proved tragically mistaken. Complex securities obscured underlying credit risk rather than eliminating it.
+- **The danger of complacency**: The belief that risk had been engineered away through financial innovation proved mistaken. Complex securities obscured underlying credit risk rather than eliminating it.
 - **The limits of monetary policy**: The Federal Reserve's low-interest-rate policy, intended to support growth, instead encouraged excessive credit creation and asset-price bubbles.
 - **Opacity in financial markets**: The dispersion of mortgage risk through securitization and derivatives trading meant no single institution knew the true scale of mortgage-default risk in the system.
 - **The procyclical nature of credit**: As home prices and asset prices rose, lenders and investors grew more confident and took greater risks, amplifying the bubble. When the cycle reversed, margin calls and forced selling accelerated the decline.

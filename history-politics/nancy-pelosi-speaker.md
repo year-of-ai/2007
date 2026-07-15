@@ -33,7 +33,7 @@ Exit polls showed that Iraq was the top issue for 42 percent of voters, and thos
 
 ## The Swearing-In Ceremony
 
-The 110th Congress convened on January 4, 2007, in the House chamber. The swearing-in ceremony was notable for its pageantry and emotional weight. Outgoing Speaker Dennis Hastert administered the oath to Pelosi in keeping with tradition. Pelosi departed from the usual practice of having the Speaker hold the gavel alone, instead inviting children from the galleries — including her own grandchildren — to share the moment on the dais during the formal swearing-in, photographs that became iconic.
+The 110th Congress convened on January 4, 2007, in the House chamber. Outgoing Speaker Dennis Hastert administered the oath to Pelosi in keeping with tradition. Pelosi departed from the usual practice of having the Speaker hold the gavel alone, instead inviting children from the galleries — including her own grandchildren — to share the moment on the dais during the formal swearing-in, in photographs that were widely published.
 
 In her acceptance remarks, Pelosi explicitly situated her election within the history of the women's movement while also pivoting quickly to a legislative agenda:
 
