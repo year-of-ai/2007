@@ -51,7 +51,7 @@ Within twelve months:
 - More than 25,000 applications were available, with roughly 140 new applications being added per day.
 - Social games emerged as the dominant application category; Zynga (founded April 2007, one month before F8) began building exclusively on the Platform, leading to later titles including FarmVille (2009), which would reach 83 million monthly active users at its peak.
 
-The Platform also enabled viral distribution mechanics unprecedented in software: applications could send notifications to friends, appear in news feeds, and be "installed" by users with a single click—creating growth loops that allowed popular applications to acquire millions of users organically within days.
+The Platform also enabled viral distribution mechanics that were uncommon in software at the time: applications could send notifications to friends, appear in news feeds, and be "installed" by users with a single click—creating growth loops that allowed popular applications to acquire millions of users organically within days.
 
 ## Significance
 

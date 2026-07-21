@@ -59,7 +59,7 @@ The Rutgers women's basketball team — widely praised for their composure and t
 
 ## Significance
 
-The cancellation of *Imus in the Morning* marked a watershed moment in media accountability for on-air speech. It demonstrated that organized civil rights advocacy combined with corporate economic pressure could enforce rapid consequences for inflammatory racial commentary in mainstream broadcasting, even for a program with a 20-year track record and a politically influential guest list.
+The cancellation of *Imus in the Morning* was widely cited as a significant case of media accountability for on-air speech. It demonstrated that organized civil rights advocacy combined with corporate economic pressure could enforce rapid consequences for inflammatory racial commentary in mainstream broadcasting, even for a program with a 20-year track record and a politically influential guest list.
 
 The incident foreshadowed broader debates in American media about the boundaries of acceptable speech, the responsibility of networks to manage hosts, and the intersection of free speech principles with social accountability. Media scholars note it as a transitional moment between an era in which shock-jock conventions were largely tolerated and a subsequent period of heightened corporate sensitivity to reputational risk from on-air comments.
 

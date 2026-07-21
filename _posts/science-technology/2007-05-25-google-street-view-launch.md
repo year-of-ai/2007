@@ -48,7 +48,7 @@ International deployments encountered even stronger legal pushback. Germany's da
 
 ## Significance
 
-Google Street View revolutionized web-based geographic documentation and urban mapping by democratizing access to street-level imagery at unprecedented scale. It transformed Google Maps from a two-dimensional directional tool into an immersive ground-level experience, establishing a new standard for interactive online maps. By enabling virtual exploration without physical travel, Street View created an unprecedented visual archive of cities and neighborhoods accessible to billions worldwide.
+Google Street View expanded web-based geographic mapping by adding wide-scale street-level imagery to online maps. It extended Google Maps from a two-dimensional directional tool into a ground-level view and set a widely adopted standard for interactive online maps. By allowing users to view locations remotely, Street View built a large visual archive of cities and neighborhoods accessible to users worldwide.
 
 The 2007 launch also demonstrated how a single technology product could reshape multiple fields simultaneously: urban planning, real estate (enabling remote property assessment), tourism, emergency response (pre-mission reconnaissance), and cultural preservation (documenting streetscapes before demolition or natural disasters). Google Street View imagery has since been used for academic research in urban studies, public health, and environmental monitoring — purposes its creators did not anticipate at launch.
 
