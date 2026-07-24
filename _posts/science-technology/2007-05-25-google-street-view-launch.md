@@ -6,7 +6,7 @@ categories:
 tags:
 - web platforms
 - emerging tech
-excerpt: 'Google Street View officially launched on May 25, 2007, as an innovative feature integrated into Google Maps, providing users with panoramic street-level imagery of urban environments. The service debuted with coverage of five major U.S. cities: San Francisco, Las Vegas, Denver, Miami, and New York…'
+excerpt: 'Google Street View officially launched on May 25, 2007, as a feature integrated into Google Maps, providing users with panoramic street-level imagery of urban environments. The service debuted with coverage of five major U.S. cities: San Francisco, Las Vegas, Denver, Miami, and New York…'
 preview: "/images/previews/science-technology.svg"
 permalink: "/news/science-technology/google-street-view-launch/"
 ---
@@ -15,9 +15,9 @@ permalink: "/news/science-technology/google-street-view-launch/"
 
 ## Summary
 
-Google Street View officially launched on May 25, 2007, as an innovative feature integrated into Google Maps, providing users with panoramic street-level imagery of urban environments. The service debuted with coverage of five major U.S. cities: San Francisco, Las Vegas, Denver, Miami, and New York City. The technology employed custom camera rigs mounted on vehicles, featuring multiple lenses arranged to capture 360-degree panoramic views. Images were captured at regular intervals along streets and automatically stitched together using computer-vision algorithms to create seamless virtual street exploration. GPS and inertial measurement unit (IMU) data synchronized image capture with geographic location, enabling precise mapping of the panoramic content.
+Google Street View officially launched on May 25, 2007, as a feature integrated into Google Maps, providing users with panoramic street-level imagery of urban environments. The service debuted with coverage of five major U.S. cities: San Francisco, Las Vegas, Denver, Miami, and New York City. The technology employed custom camera rigs mounted on vehicles, featuring multiple lenses arranged to capture 360-degree panoramic views. Images were captured at regular intervals along streets and automatically stitched together using computer-vision algorithms to create seamless virtual street exploration. GPS and inertial measurement unit (IMU) data synchronized image capture with geographic location, enabling precise mapping of the panoramic content.
 
-Throughout 2007, Google rapidly expanded Street View coverage across the United States. By August, additional cities including Los Angeles, San Diego, Houston, and Orlando were added. October 2007 saw expansion to Portland, Phoenix, Tucson, Chicago, Pittsburgh, and Philadelphia, followed by December 2007 additions including Dallas, Fort Worth, Minneapolis, Saint Paul, Indianapolis, Detroit, Providence, Boston, and Hartford. This aggressive domestic rollout established Street View as a major component of Google's mapping strategy before any international deployment. The service immediately generated substantial traffic to Google Maps, demonstrating unprecedented user demand for street-level virtual exploration.
+Throughout 2007, Google rapidly expanded Street View coverage across the United States. By August, additional cities including Los Angeles, San Diego, Houston, and Orlando were added. October 2007 saw expansion to Portland, Phoenix, Tucson, Chicago, Pittsburgh, and Philadelphia, followed by December 2007 additions including Dallas, Fort Worth, Minneapolis, Saint Paul, Indianapolis, Detroit, Providence, Boston, and Hartford. This domestic rollout established Street View as a major component of Google's mapping strategy before any international deployment. The service generated substantial traffic to Google Maps.
 
 ## Technical Architecture
 
