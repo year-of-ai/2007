@@ -6,7 +6,7 @@ categories:
 tags:
 - energy markets
 - markets & investing
-excerpt: In late 2007, crude oil prices surged dramatically, approaching the symbolic $100 per barrel threshold for the first time in history. West Texas Intermediate (WTI) crude, which had averaged roughly $55 per barrel in January 2007, climbed throughout the year as global demand (driven particularly by…
+excerpt: In late 2007, crude oil prices rose sharply, approaching the $100 per barrel level for the first time. West Texas Intermediate (WTI) crude, which had averaged roughly $55 per barrel in January 2007, climbed throughout the year as global demand (driven particularly by…
 preview: "/images/previews/society-economics.svg"
 permalink: "/news/society-economics/oil-price-spike-2007/"
 ---
@@ -17,7 +17,7 @@ permalink: "/news/society-economics/oil-price-spike-2007/"
 
 ## Summary
 
-In late 2007, crude oil prices surged dramatically, approaching the symbolic $100 per barrel threshold for the first time in history. West Texas Intermediate (WTI) crude, which had averaged roughly $55 per barrel in January 2007, climbed throughout the year as global demand (driven particularly by China and India's rapid industrialization) outpaced supply. On October 19, 2007, light crude rose to $90.02 per barrel due to geopolitical tensions in eastern Turkey and weakening U.S. dollar. The upward momentum accelerated into November: oil futures on the New York Mercantile Exchange reached $99.29 per barrel for December delivery on November 21, 2007 — the closest prices had come to the historic $100 mark. This surge was unprecedented in the commodity's modern trading history, signaling a structural shift in global energy markets.
+In late 2007, crude oil prices rose sharply, approaching the $100 per barrel level for the first time. West Texas Intermediate (WTI) crude, which had averaged roughly $55 per barrel in January 2007, climbed throughout the year as global demand (driven particularly by China and India's rapid industrialization) outpaced supply. On October 19, 2007, light crude rose to $90.02 per barrel due to geopolitical tensions in eastern Turkey and weakening U.S. dollar. The upward momentum accelerated into November: oil futures on the New York Mercantile Exchange reached $99.29 per barrel for December delivery on November 21, 2007 — the closest prices had come to the $100 mark to that point. This was the highest nominal price crude had reached in its trading history to that date.
 
 The price spike reflected multiple structural factors: constrained OPEC production capacity despite record global demand, reduced spare production capacity globally, rising consumption in developing economies, currency weakness (the U.S. dollar declined against major trading partners), geopolitical risks (Israeli-Palestinian tensions, U.S. military activity in Iraq and Afghanistan), and increasing speculative investment in oil futures by hedge funds and pension funds seeking to capitalize on or hedge against inflation.
 

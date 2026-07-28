@@ -6,7 +6,7 @@ categories:
 tags:
 - web platforms
 - digital media
-excerpt: 'By 2007, YouTube had transformed from a 2005 startup novelty into a defining piece of global media infrastructure. Following Google''s $1.65 billion acquisition in November 2006, YouTube in 2007 achieved unprecedented scale: over 100 million videos watched daily, with users uploading approximately…'
+excerpt: 'By 2007, YouTube had transformed from a 2005 startup novelty into a defining piece of global media infrastructure. Following Google''s $1.65 billion acquisition in November 2006, YouTube in 2007 reached a large scale: over 100 million videos watched daily, with users uploading approximately…'
 preview: "/images/previews/science-technology.svg"
 permalink: "/news/science-technology/youtube-growth-2007/"
 ---
@@ -16,7 +16,7 @@ permalink: "/news/science-technology/youtube-growth-2007/"
 
 ## Summary
 
-By 2007, YouTube had transformed from a 2005 startup novelty into a defining piece of global media infrastructure. Following Google's $1.65 billion acquisition in November 2006, YouTube in 2007 achieved unprecedented scale: over 100 million videos watched daily, with users uploading approximately 65,000 new videos per day—equivalent to roughly 6 hours of content added every minute by mid-year, rising to 10 hours per minute by year's end. The platform's monthly active user base grew from approximately 20 million in early 2006 to an estimated 160 million by late 2007—a roughly 700% increase. YouTube's 2007 milestone was not merely technical growth but structural transformation: the company launched its Partner Program enabling creators to share advertising revenue, forged an integration with Apple's iPhone that reached a new mobile audience, hosted the first citizen-question U.S. presidential debates in partnership with CNN, and localized operations across multiple countries. By year's end, YouTube had established itself simultaneously as a media platform, a creator-economy engine, a tool for democratic participation, and a cultural institution.
+By 2007, YouTube had transformed from a 2005 startup novelty into a defining piece of global media infrastructure. Following Google's $1.65 billion acquisition in November 2006, YouTube in 2007 reached a large scale: over 100 million videos watched daily, with users uploading approximately 65,000 new videos per day—equivalent to roughly 6 hours of content added every minute by mid-year, rising to 10 hours per minute by year's end. The platform's monthly active user base grew from approximately 20 million in early 2006 to an estimated 160 million by late 2007—a roughly 700% increase. YouTube's 2007 changes extended beyond traffic growth: the company launched its Partner Program enabling creators to share advertising revenue, forged an integration with Apple's iPhone that reached a new mobile audience, hosted the first citizen-question U.S. presidential debates in partnership with CNN, and localized operations across multiple countries. By year's end, YouTube served simultaneously as a video-hosting service, a revenue-sharing platform for creators, a venue for political debates, and a widely used media site.
 
 ## Background: From Startup to Google Property
 
