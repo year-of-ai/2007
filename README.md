@@ -2,6 +2,7 @@
 title: The Year 2007 — Knowledge Index
 permalink: "/knowledge-index/"
 description: The full 2007 knowledge table — every notable event, linked to its article.
+preview: /images/previews/the-year-2007-knowledge-index.svg
 ---
 
 # The Year 2007
@@ -42,6 +43,7 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2006](http
 | [Gordon Brown becomes UK Prime Minister]({{ '/news/history-politics/gordon-brown-becomes-pm/' | relative_url }}) | On June 27, Gordon Brown succeeded Tony Blair as Prime Minister after a decade as Chancellor, taking office mid-Parliament without a general election. |
 | [I-35W Bridge collapses]({{ '/news/history-politics/i35w-bridge-collapse/' | relative_url }}) | A steel truss bridge over the Mississippi River in Minneapolis collapsed on August 1, killing 13 and injuring 145, prompting national scrutiny of aging infrastructure. |
 | [Barry Bonds surpasses Hank Aaron's home-run record]({{ '/news/people/barry-bonds-home-run-record/' | relative_url }}) | On August 7, Barry Bonds hit his 756th career home run, breaking Hank Aaron's 32-year-old record, amid ongoing BALCO steroid-scandal allegations that clouded the achievement's legacy. |
+| [Northern Rock bank run]({{ '/news/society-economics/northern-rock-bank-run/' | relative_url }}) | On September 14, the Bank of England's emergency liquidity announcement triggered the UK's first bank run in 150 years, demonstrating how the U.S. subprime crisis spread globally through interconnected credit markets. |
 | [Mahmoud Ahmadinejad's Columbia University speech]({{ '/news/history-politics/ahmadinejad-columbia-speech/' | relative_url }}) | On September 24, Iranian President Ahmadinejad delivered a controversial speech at Columbia University's World Leaders Forum amid intense security and political protests, exemplifying U.S.-Iran tensions. |
 | [Russia-Georgia conflict escalates]({{ '/news/history-politics/russia-georgia-conflict-2007/' | relative_url }}) | Military tensions between Russia and Georgia intensified throughout 2007 over South Ossetia and Abkhazia, foreshadowing the 2008 war. |
 | [Benazir Bhutto assassinated]({{ '/news/history-politics/benazir-bhutto-assassination/' | relative_url }}) | Pakistan's former prime minister was shot and killed on December 27 in Rawalpindi after a political rally, destabilizing the country ahead of scheduled January elections. |
@@ -49,6 +51,8 @@ It is the successor instance in its lineage, spawned from [year-of-ai/2006](http
 | [Ben Bernanke's Federal Reserve crisis response]({{ '/news/society-economics/ben-bernanke-fed-2007/' | relative_url }}) | Federal Reserve Chairman Bernanke, a Great Depression scholar, cut rates, created emergency lending facilities, and coordinated with central banks worldwide against financial collapse. |
 | [Subprime mortgage crisis erupts]({{ '/news/society-economics/subprime-mortgage-crisis/' | relative_url }}) | Bear Stearns disclosed in July that two subprime hedge funds had collapsed, marking the onset of the global financial crisis that deepened through 2008. |
 | [Google Street View launch]({{ '/news/science-technology/google-street-view-launch/' | relative_url }}) | On May 25, Google launched Street View, enabling virtual street-level exploration via Google Maps, transforming urban mapping and sparking privacy debates. |
+| [Greensburg, Kansas EF5 tornado]({{ '/news/society-economics/greensburg-tornado/' | relative_url }}) | On May 4, an EF5 tornado destroyed 95% of Greensburg, Kansas, killing 11, and sparked a national model of sustainable disaster recovery through the town's renewable-energy rebuilding. |
+| [The Sopranos series finale airs]({{ '/news/arts-culture/sopranos-series-finale/' | relative_url }}) | On June 10, HBO's landmark drama concluded with its controversial cut-to-black ending, revolutionizing how television drama approached narrative closure and cementing prestige television's dominance. |
 | [*Harry Potter and the Deathly Hallows* published]({{ '/news/arts-culture/harry-potter-deathly-hallows/' | relative_url }}) | Rowling's seventh and final Harry Potter novel appeared on July 21, selling 11 million copies in its first 24 hours across the U.S. and UK. |
 | [Blu-ray vs. HD-DVD format war escalates]({{ '/news/science-technology/blu-ray-hd-dvd-format-war-2007/' | relative_url }}) | The high-definition optical-media battle reached a critical turning point in 2007 as PlayStation 3 and studio commitments favored Blu-ray over HD-DVD. |
 | [Al Gore and IPCC share Nobel Peace Prize]({{ '/news/history-politics/al-gore-ipcc-nobel-peace-prize/' | relative_url }}) | The Nobel Committee awarded the 2007 Peace Prize jointly to Al Gore and the IPCC on October 12 for building consensus on man-made climate change. |
