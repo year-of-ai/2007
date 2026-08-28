@@ -7,9 +7,9 @@ preview: /images/previews/complete-index-of-2007.svg
 
 # Complete Index of 2007
 
-A comprehensive index of all 63 notable events, people, works, and developments of 2007, organized by category and date.
+A comprehensive index of all 66 notable events, people, works, and developments of 2007, organized by category and date.
 
-2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 63 entries document that convergence.
+2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 66 entries document that convergence.
 
 ---
 
@@ -28,7 +28,8 @@ A comprehensive index of all 63 notable events, people, works, and developments 
 | Sep 24 | [Mahmoud Ahmadinejad's Columbia University speech]({{ '/news/history-politics/ahmadinejad-columbia-speech/' | relative_url }}) |
 | Sep 27 | [Myanmar's Saffron Uprising brutally crushed]({{ '/news/history-politics/myanmar-saffron-uprising/' | relative_url }}) |
 | Oct 12 | [Al Gore and IPCC share Nobel Peace Prize]({{ '/news/history-politics/al-gore-ipcc-nobel-peace-prize/' | relative_url }}) |
-| Nov 24 | [Australian federal election ends 11-year Howard government]({{ '/news/history-politics/australian-federal-election/' | relative_url }}) |
+| Nov 24 | [Australian federal election ends 11-year Howard government]({{ '/news/history-politics/australian-federal-election-2007/' | relative_url }}) |
+| Dec 13 | [Treaty of Lisbon signed by EU leaders]({{ '/news/history-politics/treaty-of-lisbon/' | relative_url }}) |
 | Dec 27 | [Benazir Bhutto assassinated]({{ '/news/history-politics/benazir-bhutto-assassination/' | relative_url }}) |
 | Year | [Darfur conflict escalates internationally]({{ '/news/history-politics/darfur-conflict-2007/' | relative_url }}) |
 | Year | [Russia-Georgia conflict escalates]({{ '/news/history-politics/russia-georgia-conflict-2007/' | relative_url }}) |
@@ -78,6 +79,7 @@ A comprehensive index of all 63 notable events, people, works, and developments 
 
 | Date | Event |
 |---|---|
+| Jan 11 | [David Beckham joins LA Galaxy]({{ '/news/society-economics/david-beckham-la-galaxy/' | relative_url }}) |
 | Feb 4 | [Super Bowl XLI]({{ '/news/society-economics/super-bowl-xli/' | relative_url }}) |
 | Apr 28 | [Cricket World Cup 2007]({{ '/news/society-economics/cricket-world-cup-2007/' | relative_url }}) |
 | May 4 | [Greensburg, Kansas EF5 tornado]({{ '/news/society-economics/greensburg-tornado/' | relative_url }}) |
@@ -88,6 +90,7 @@ A comprehensive index of all 63 notable events, people, works, and developments 
 | Aug 17 | [Ben Bernanke's Federal Reserve crisis response]({{ '/news/society-economics/ben-bernanke-fed-2007/' | relative_url }}) |
 | Sep 14 | [Northern Rock bank run]({{ '/news/society-economics/northern-rock-bank-run/' | relative_url }}) |
 | Oct 9 | [Stock market peaks before 2008 crisis]({{ '/news/society-economics/stock-market-peak-october-2007/' | relative_url }}) |
+| Nov 9 | [Merck settles Vioxx lawsuits for $4.85 billion]({{ '/news/society-economics/merck-vioxx-settlement/' | relative_url }}) |
 | Nov 21 | [Oil prices spike to near $100 per barrel]({{ '/news/society-economics/oil-price-spike-2007/' | relative_url }}) |
 | Dec 6 | [Treasury brokers subprime ARM rate-freeze plan]({{ '/news/society-economics/hank-paulson-treasury-2007/' | relative_url }}) |
 | Dec 29 | [New England Patriots achieve 16-0 season]({{ '/news/society-economics/new-england-patriots-16-0/' | relative_url }}) |
@@ -167,7 +170,7 @@ Every major financial stress marker of 2008 was already visible in 2007. The sub
 
 Democracy faced organized violence across three continents in 2007. Myanmar's Buddhist monks led the Saffron Uprising in September before it was suppressed by the military junta. Benazir Bhutto survived a suicide bombing that killed 139 people on her return to Pakistan in October, then was assassinated in December. Darfur's conflict reached its most internationally visible phase. Pakistan's President Musharraf suspended the constitution in November. In contrast, Gordon Brown's assumption of the UK prime ministership in June and the Australian Labor Party's November election victory represented peaceful democratic transitions — while in the U.S., Nancy Pelosi's January speakership marked a historic shift in congressional power that immediately constrained Bush's Iraq policy.
 
-**Entries in this theme:** [Myanmar Saffron Uprising]({{ '/news/history-politics/myanmar-saffron-uprising/' | relative_url }}) · [Benazir Bhutto Assassination]({{ '/news/history-politics/benazir-bhutto-assassination/' | relative_url }}) · [Darfur Conflict 2007]({{ '/news/history-politics/darfur-conflict-2007/' | relative_url }}) · [Nancy Pelosi Becomes Speaker]({{ '/news/history-politics/nancy-pelosi-speaker/' | relative_url }}) · [Australian Federal Election]({{ '/news/history-politics/australian-federal-election/' | relative_url }})
+**Entries in this theme:** [Myanmar Saffron Uprising]({{ '/news/history-politics/myanmar-saffron-uprising/' | relative_url }}) · [Benazir Bhutto Assassination]({{ '/news/history-politics/benazir-bhutto-assassination/' | relative_url }}) · [Darfur Conflict 2007]({{ '/news/history-politics/darfur-conflict-2007/' | relative_url }}) · [Nancy Pelosi Becomes Speaker]({{ '/news/history-politics/nancy-pelosi-speaker/' | relative_url }}) · [Australian Federal Election]({{ '/news/history-politics/australian-federal-election-2007/' | relative_url }})
 
 ---
 
