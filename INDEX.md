@@ -111,6 +111,7 @@ A comprehensive index of all 66 notable events, people, works, and developments 
 | Jul 30 | [Michelangelo Antonioni dies]({{ '/news/people/michelangelo-antonioni/' | relative_url }}) |
 | Aug 7 | [Barry Bonds surpasses Hank Aaron's home-run record]({{ '/news/people/barry-bonds-home-run-record/' | relative_url }}) |
 | Sep 6 | [Luciano Pavarotti dies]({{ '/news/people/luciano-pavarotti/' | relative_url }}) |
+| Nov 30 | [Evel Knievel dies]({{ '/news/people/evel-knievel/' | relative_url }}) |
 
 ---
 
