@@ -7,9 +7,9 @@ preview: /images/previews/complete-index-of-2007.svg
 
 # Complete Index of 2007
 
-A comprehensive index of all 66 notable events, people, works, and developments of 2007, organized by category and date.
+A comprehensive index of all 69 notable events, people, works, and developments of 2007, organized by category and date.
 
-2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 66 entries document that convergence.
+2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 69 entries document that convergence.
 
 ---
 
@@ -67,6 +67,8 @@ A comprehensive index of all 66 notable events, people, works, and developments 
 | Jul 3 | [Transformers released]({{ '/news/arts-culture/transformers/' | relative_url }}) |
 | Jul 7 | [Live Earth 2007]({{ '/news/arts-culture/live-earth-2007/' | relative_url }}) |
 | Jul 21 | [*Harry Potter and the Deathly Hallows* published]({{ '/news/arts-culture/harry-potter-deathly-hallows/' | relative_url }}) |
+| Jul 27 | [The Simpsons Movie released]({{ '/news/arts-culture/simpsons-movie/' | relative_url }}) |
+| Sep 9 | [2007 MTV Video Music Awards]({{ '/news/arts-culture/mtv-vmas-2007/' | relative_url }}) |
 | Sep 11 | [Kanye West's Graduation released]({{ '/news/arts-culture/kanye-west-graduation/' | relative_url }}) |
 | Oct 10 | [Radiohead's In Rainbows]({{ '/news/arts-culture/radiohead-in-rainbows/' | relative_url }}) |
 | Nov 5 | [Writers Guild of America strike]({{ '/news/arts-culture/writers-guild-strike/' | relative_url }}) |
