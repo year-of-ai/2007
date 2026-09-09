@@ -9,7 +9,7 @@ preview: /images/previews/complete-index-of-2007.svg
 
 A comprehensive index of all 72 notable events, people, works, and developments of 2007, organized by category and date.
 
-2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 72 entries document that convergence.
+2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 73 entries document that convergence.
 
 ---
 
@@ -19,6 +19,7 @@ A comprehensive index of all 72 notable events, people, works, and developments 
 |---|---|
 | Jan 4 | [Nancy Pelosi becomes Speaker of the House]({{ '/news/history-politics/nancy-pelosi-speaker/' | relative_url }}) |
 | Jan 10 | [Iraq War Troop Surge announced]({{ '/news/history-politics/iraq-war-troop-surge/' | relative_url }}) |
+| Feb 10 | [2008 U.S. Presidential Campaign Begins]({{ '/news/history-politics/2008-presidential-campaign-begins/' | relative_url }}) |
 | Apr 16 | [Virginia Tech shooting]({{ '/news/history-politics/virginia-tech-shooting/' | relative_url }}) |
 | May 6 | [Nicolas Sarkozy wins the French presidential election]({{ '/news/history-politics/nicolas-sarkozy-french-election/' | relative_url }}) |
 | May 10 | [Tony Blair announces his resignation]({{ '/news/history-politics/tony-blair-resignation/' | relative_url }}) |
