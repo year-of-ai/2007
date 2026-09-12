@@ -7,9 +7,9 @@ preview: /images/previews/complete-index-of-2007.svg
 
 # Complete Index of 2007
 
-A comprehensive index of all 72 notable events, people, works, and developments of 2007, organized by category and date.
+A comprehensive index of all 76 notable events, people, works, and developments of 2007, organized by category and date.
 
-2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 73 entries document that convergence.
+2007 was a hinge year: the consumer technology revolution reached a mass tipping point — Apple sold 270,000 iPhones over the device's opening weekend, and Facebook opened its platform to outside developers in May — while the financial system that had underpinned years of growth quietly began to buckle. Bear Stearns disclosed in July that two of its hedge funds had lost "essentially all their value," inflicting roughly $1.8 billion in investor losses and marking the moment the subprime mortgage crisis became a systemic event. Geopolitically, the year closed with Benazir Bhutto's assassination on December 27 — the first woman ever to lead a Muslim-majority country, killed on the campaign trail in Rawalpindi. These 76 entries document that convergence.
 
 ---
 
@@ -53,6 +53,7 @@ A comprehensive index of all 72 notable events, people, works, and developments 
 | Jun 2007 | [Singularity University conceived]({{ '/news/science-technology/singularity-university-founding/' | relative_url }}) |
 | Jun 29 | [iPhone goes on sale]({{ '/news/science-technology/iphone-launch/' | relative_url }}) |
 | Sep 16 | [Arctic sea ice hits record low]({{ '/news/science-technology/arctic-sea-ice-record-low/' | relative_url }}) |
+| Nov 5 | [Android platform announced by Google]({{ '/news/science-technology/android-announcement/' | relative_url }}) |
 | Nov 19 | [Amazon Kindle launched]({{ '/news/science-technology/amazon-kindle-launch/' | relative_url }}) |
 | Nov 20 | [Induced pluripotent stem cells created]({{ '/news/science-technology/induced-pluripotent-stem-cells/' | relative_url }}) |
 
@@ -86,6 +87,7 @@ A comprehensive index of all 72 notable events, people, works, and developments 
 |---|---|
 | Jan 11 | [David Beckham joins LA Galaxy]({{ '/news/society-economics/david-beckham-la-galaxy/' | relative_url }}) |
 | Feb 4 | [Super Bowl XLI]({{ '/news/society-economics/super-bowl-xli/' | relative_url }}) |
+| Mar 16 | [2007 pet food recall begins]({{ '/news/society-economics/pet-food-recall/' | relative_url }}) |
 | Apr 28 | [Cricket World Cup 2007]({{ '/news/society-economics/cricket-world-cup-2007/' | relative_url }}) |
 | May 4 | [Greensburg, Kansas EF5 tornado]({{ '/news/society-economics/greensburg-tornado/' | relative_url }}) |
 | Jun 2007 | [China emerges as global renewable energy manufacturing leader]({{ '/news/society-economics/china-renewable-energy-2007/' | relative_url }}) |
@@ -96,6 +98,7 @@ A comprehensive index of all 72 notable events, people, works, and developments 
 | Sep 14 | [Northern Rock bank run]({{ '/news/society-economics/northern-rock-bank-run/' | relative_url }}) |
 | Oct 9 | [Stock market peaks before 2008 crisis]({{ '/news/society-economics/stock-market-peak-october-2007/' | relative_url }}) |
 | Oct 21 | [Lewis Hamilton's 2007 Formula 1 debut season]({{ '/news/society-economics/lewis-hamilton-2007-f1/' | relative_url }}) |
+| Oct 21 | [October 2007 California wildfires]({{ '/news/society-economics/california-wildfires/' | relative_url }}) |
 | Nov 9 | [Merck settles Vioxx lawsuits for $4.85 billion]({{ '/news/society-economics/merck-vioxx-settlement/' | relative_url }}) |
 | Nov 21 | [Oil prices spike to near $100 per barrel]({{ '/news/society-economics/oil-price-spike-2007/' | relative_url }}) |
 | Dec 6 | [Treasury brokers subprime ARM rate-freeze plan]({{ '/news/society-economics/hank-paulson-treasury-2007/' | relative_url }}) |
@@ -159,9 +162,9 @@ The Dow Jones Industrial Average peaked at 14,164.53 on October 9 — its highes
 
 ### The Digital Inflection Point
 
-2007 was arguably the most concentrated single year of consumer-technology transformation since the introduction of the personal computer. The iPhone (January 9 announcement, June 29 launch) established the multi-touch smartphone form factor that would make every prior smartphone paradigm — stylus-driven Windows Mobile, Nokia's Symbian — obsolete within five years. The Facebook Platform (May 24) opened the social graph to outside developers, enabling the mobile-social media convergence that would define the next decade. Google Street View (May 25), YouTube's explosive growth as a mass-media platform, the Amazon Kindle (November 19), and the conception of Singularity University all occurred within this single calendar year. The parallel scientific revolution — Yamanaka and Thomson's induced pluripotent stem cell breakthrough (November 20–21) — demonstrated that 2007's transformation was not confined to consumer electronics.
+2007 was arguably the most concentrated single year of consumer-technology transformation since the introduction of the personal computer. The iPhone (January 9 announcement, June 29 launch) established the multi-touch smartphone form factor that would make every prior smartphone paradigm — stylus-driven Windows Mobile, Nokia's Symbian — obsolete within five years. The Facebook Platform (May 24) opened the social graph to outside developers, enabling the mobile-social media convergence that would define the next decade. Google Street View (May 25), YouTube's explosive growth as a mass-media platform, the Amazon Kindle (November 19), and the conception of Singularity University all occurred within this single calendar year. On November 5, Google answered the iPhone with Android and the Open Handset Alliance, an open-source mobile platform that would go on to power the majority of the world's smartphones. The parallel scientific revolution — Yamanaka and Thomson's induced pluripotent stem cell breakthrough (November 20–21) — demonstrated that 2007's transformation was not confined to consumer electronics.
 
-**Entries in this theme:** [iPhone Launch]({{ '/news/science-technology/iphone-launch/' | relative_url }}) · [Facebook Platform]({{ '/news/science-technology/facebook-platform/' | relative_url }}) · [Google Street View]({{ '/news/science-technology/google-street-view-launch/' | relative_url }}) · [Amazon Kindle]({{ '/news/science-technology/amazon-kindle-launch/' | relative_url }}) · [Induced Pluripotent Stem Cells]({{ '/news/science-technology/induced-pluripotent-stem-cells/' | relative_url }}) · [YouTube Growth 2007]({{ '/news/science-technology/youtube-growth-2007/' | relative_url }})
+**Entries in this theme:** [iPhone Launch]({{ '/news/science-technology/iphone-launch/' | relative_url }}) · [Android Platform Announcement]({{ '/news/science-technology/android-announcement/' | relative_url }}) · [Facebook Platform]({{ '/news/science-technology/facebook-platform/' | relative_url }}) · [Google Street View]({{ '/news/science-technology/google-street-view-launch/' | relative_url }}) · [Amazon Kindle]({{ '/news/science-technology/amazon-kindle-launch/' | relative_url }}) · [Induced Pluripotent Stem Cells]({{ '/news/science-technology/induced-pluripotent-stem-cells/' | relative_url }}) · [YouTube Growth 2007]({{ '/news/science-technology/youtube-growth-2007/' | relative_url }})
 
 ---
 
